@@ -175,3 +175,7 @@ footer {
     top: 0;    
     width: 100%;
 }
+#copyright {
+    clear: both;
+    padding-top: 50px;
+}
