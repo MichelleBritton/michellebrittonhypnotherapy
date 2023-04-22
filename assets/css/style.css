@@ -107,6 +107,31 @@ h2 {
     margin: 0 0 30px;
 }
 
+/* How Can Hypnotherapy Help Section */
+#how-can-hypnotherapy-help {
+    overflow: hidden;
+}
+#how-can-hypnotherapy-help > div {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    float: left;
+    margin: 0 0 50px 2%;
+    text-align: center;
+    width: 23.5%;
+}
+#how-can-hypnotherapy-help > div:nth-of-type(1),
+#how-can-hypnotherapy-help > div:nth-of-type(5) {
+    margin-left: 0;
+}
+#how-can-hypnotherapy-help h2 {
+    margin: 10px 0;
+}
+#how-can-hypnotherapy-help img {
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+}
+
 /* Quote Section */
 #quote {
     color: #6898ad;
