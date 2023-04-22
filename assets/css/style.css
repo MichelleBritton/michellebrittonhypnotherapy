@@ -28,6 +28,7 @@ img {
     max-width: 100%;
 }
 p, ul, ol {
+    font-size: 150%;
     margin-bottom: 18px;
 }
 a {
@@ -74,8 +75,29 @@ nav a:hover, a.active {
 
 /* Common Section Elements */
 .full-width {
-    padding: 5% 20%;
+    padding: 3% 15%;
 }
 .blue {
     background: #6898ad;
+    color: #fff;
 }
+.blue a {
+    color: #ccc;
+}
+.blue a:hover {
+    border-bottom: 1px solid #ccc;
+}
+.inner-content {
+    padding-left: 5%;
+}
+
+h1, .circle {
+    background: url(../images/h1-circle.png) no-repeat; 
+	font-size: 200%;
+    font-weight: 300;
+    line-height: 1.8;
+    margin: 0 0 30px;
+    min-height: 75px;
+	padding: 8px 0 0 30px; 
+}
+
