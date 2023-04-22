@@ -77,6 +77,9 @@ nav a:hover, a.active {
 .full-width {
     padding: 3% 15%;
 }
+.inner-content {
+    padding-left: 5%;
+}
 .blue {
     background: #6898ad;
     color: #fff;
@@ -87,9 +90,6 @@ nav a:hover, a.active {
 .blue a:hover {
     border-bottom: 1px solid #ccc;
 }
-.inner-content {
-    padding-left: 5%;
-}
 
 h1, .circle {
     background: url(../images/h1-circle.png) no-repeat; 
@@ -99,5 +99,22 @@ h1, .circle {
     margin: 0 0 30px;
     min-height: 75px;
 	padding: 8px 0 0 30px; 
+}
+
+/* Quote Section */
+#quote {
+    color: #6898ad;
+    padding: 3% 25%;
+}
+#quote blockquote {
+    font-family: 'james_fajardoregular', sans-serif;
+    font-size: 500%;
+    letter-spacing: 2px;
+    line-height: .8;
+    text-align: center;
+}
+#quote p {
+    float: right;
+    font-size: 120%;
 }
 
