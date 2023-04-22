@@ -27,7 +27,7 @@ img {
     height: auto;
     max-width: 100%;
 }
-p, ul, ol, address {
+p, ul, ol, address, td, th {
     font-size: 150%;
     font-style: normal;
     margin-bottom: 18px;
@@ -216,4 +216,17 @@ footer {
 #copyright {
     clear: both;
     padding-top: 50px;
+}
+
+/* Sessions & Fees table */
+table {
+    width: 60%;
+}
+th, td {
+    padding: 10px 0;
+    text-align: left;
+    width: 50%;
+}
+.small {
+    font-size: 80%;
 }
