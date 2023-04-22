@@ -27,8 +27,9 @@ img {
     height: auto;
     max-width: 100%;
 }
-p, ul, ol {
+p, ul, ol, address {
     font-size: 150%;
+    font-style: normal;
     margin-bottom: 18px;
 }
 a {
@@ -100,6 +101,11 @@ h1, .circle {
     min-height: 75px;
 	padding: 8px 0 0 30px; 
 }
+h2 {
+    font-size: 180%;
+    font-weight: 300;
+    margin: 0 0 30px;
+}
 
 /* Quote Section */
 #quote {
@@ -118,3 +124,54 @@ h1, .circle {
     font-size: 120%;
 }
 
+/* Footer Section */
+footer {
+    background: #9bd2c9;
+    color: #e3ffff;
+    overflow: hidden;
+    width: 100%;
+}
+#contact-details {
+    float: left;
+    width: 30%;
+}
+#contact-details p {
+    line-height: 40px;
+}
+#contact-details a {
+    color: #3a3a3a;
+}
+#contact-details a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+.icon {
+    background: #e3ffff;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    height: 40px;
+    margin-right: 30px;
+    text-align: center;
+    width: 40px;
+}
+.icon.location {
+    padding-top: 3px;
+}
+.icon i {
+    color: #9bd2c9;
+}
+#map {
+    float: right;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 20%;
+    position: relative;
+    width: 60%;
+}
+#map iframe {
+    left: 0;
+    height: 100%;
+    position: absolute;
+    top: 0;    
+    width: 100%;
+}
