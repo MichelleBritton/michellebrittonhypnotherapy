@@ -37,7 +37,7 @@ a {
 /* Header */
 header {
     background: #9bd2c9 url(../images/header-bg.png) center top no-repeat;
-    padding: 20px 0;
+    padding: 20px 0 0 0;
     text-align: center;
 }
 #logo {
@@ -48,5 +48,25 @@ header {
     font-family: 'james_fajardoregular', sans-serif;
     font-size: 400%;
     letter-spacing: 2px;
-    margin: 0;
+}
+
+/* Navigation */
+nav {
+    background: #a588a4;
+    text-align: center;
+}
+nav ul {
+    font-size: 150%;
+    padding: 20px 0;
+}
+nav ul > li {
+    display: inline;
+    margin: 0 15px;
+}
+nav a {
+    color: #e3ffff;
+    display: inline-block;
+}
+nav a:hover, a.active {
+    border-bottom: 2px solid #e3ffff;
 }
