@@ -1,6 +1,15 @@
 /* Import Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');
 
+/* Fonts */
+@font-face {
+    font-family: 'james_fajardoregular';
+    src: url('../fonts/james_fajardo-webfont.woff2') format('woff2'),
+         url('../fonts/james_fajardo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Reset Styles */
 * {
     border: none;
@@ -8,23 +17,36 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
-
 img {
     display: block;
     height: auto;
     max-width: 100%;
 }
-
 p, ul, ol {
     margin-bottom: 18px;
 }
-
 a {
     text-decoration: none;
+}
+
+/* Header */
+header {
+    background: #9bd2c9 url(../images/header-bg.png) center top no-repeat;
+    padding: 20px 0;
+    text-align: center;
+}
+#logo {
+    margin: 0 auto 30px;
+}
+#tagline {
+    color: #e3ffff;
+    font-family: 'james_fajardoregular', sans-serif;
+    font-size: 400%;
+    letter-spacing: 2px;
+    margin: 0;
 }
