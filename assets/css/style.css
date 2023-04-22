@@ -57,11 +57,12 @@ nav {
 }
 nav ul {
     font-size: 150%;
+    margin: 0;
     padding: 20px 0;
 }
 nav ul > li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 25px;
 }
 nav a {
     color: #e3ffff;
@@ -69,4 +70,12 @@ nav a {
 }
 nav a:hover, a.active {
     border-bottom: 2px solid #e3ffff;
+}
+
+/* Common Section Elements */
+.full-width {
+    padding: 5% 20%;
+}
+.blue {
+    background: #6898ad;
 }
