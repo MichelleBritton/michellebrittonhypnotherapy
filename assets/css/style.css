@@ -78,6 +78,9 @@ nav a:hover, a.active {
 .full-width {
     padding: 3% 15%;
 }
+.full-width-heading {
+    padding: 1% 15%;
+}
 .inner-content {
     padding-left: 5%;
 }
@@ -101,10 +104,20 @@ h1, .circle {
     min-height: 75px;
 	padding: 8px 0 0 30px; 
 }
+.full-width-heading h1 {
+    margin: 0;
+}
 h2 {
     font-size: 180%;
     font-weight: 300;
     margin: 0 0 30px;
+}
+#content h2 {
+    color: #6898ad;
+    margin-top: 50px;
+}
+#content h2:first-child {
+    margin-top: 0;
 }
 
 /* How Can Hypnotherapy Help Section */
