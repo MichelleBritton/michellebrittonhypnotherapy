@@ -97,7 +97,14 @@ nav a:hover, a.active {
 .blue a:hover {
     border-bottom: 1px solid #ccc;
 }
+#content a {
+    color: #6898ad;
+}
+#content a:hover {
+    border-bottom: 1px solid #6898ad;
+}
 
+/* Headings */
 h1, .circle {
     background: url(../images/h1-circle.png) no-repeat; 
 	font-size: 200%;
