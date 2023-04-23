@@ -117,10 +117,13 @@ h1, .circle {
 .full-width-heading h1 {
     margin: 0;
 }
-h2 {
+h2, h3 {
     font-size: 180%;
     font-weight: 300;
     margin: 0 0 30px;
+}
+h3 {
+    font-size: 150%;
 }
 #content h2 {
     color: #6898ad;
@@ -148,6 +151,11 @@ h2 {
     margin-left: 0;
 }
 #how-can-hypnotherapy-help h2 {
+    color: #6898ad;
+    margin-bottom: 50px;
+    text-align: center;
+}
+#how-can-hypnotherapy-help h3 {
     margin: 10px 0;
 }
 #how-can-hypnotherapy-help img {
