@@ -87,6 +87,12 @@ nav a:hover, a.active {
 .inner-content {
     padding-left: 5%;
 }
+#main-img {
+    height: 400px;
+    object-fit: cover;
+    object-position: center -80px;
+    width: 100%;
+}
 .blue {
     background: #6898ad;
     color: #fff;
