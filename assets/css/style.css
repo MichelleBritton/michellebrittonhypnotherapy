@@ -103,6 +103,22 @@ nav a:hover, a.active {
 #content a:hover {
     border-bottom: 1px solid #6898ad;
 }
+a.btn, #content a.btn {
+    background: #a588a4;
+    border: 3px solid #e3ffff;
+    border-radius: 50px;
+    clear: both;
+    color: #e3ffff;
+    display: block;
+    font-size: 200%;
+    margin: 0 auto;
+    padding: 10px 20px;
+    text-align: center;
+    width: 40%;
+}
+a.btn:hover, #content a.btn:hover {
+    background: #6898ad;
+}
 
 /* Headings */
 h1, .circle {
