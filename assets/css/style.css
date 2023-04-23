@@ -98,10 +98,10 @@ nav a:hover, a.active {
     color: #fff;
 }
 .blue a {
-    color: #ccc;
+    color: #3a3a3a;
 }
 .blue a:hover {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #3a3a3a;
 }
 #content a {
     color: #6898ad;
@@ -207,64 +207,9 @@ h3 {
     text-align: center;
 }
 #quote p {
+    color: #3a3a3a;
     float: right;
     font-size: 120%;
-}
-
-/* Footer Section */
-footer {
-    background: #9bd2c9;
-    color: #e3ffff;
-    overflow: hidden;
-    width: 100%;
-}
-#contact-details {
-    float: left;
-    width: 30%;
-}
-#contact-details p {
-    line-height: 40px;
-}
-#contact-details a {
-    color: #3a3a3a;
-}
-#contact-details a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-.icon {
-    background: #e3ffff;
-    border-radius: 50%;
-    display: block;
-    float: left;
-    height: 40px;
-    margin-right: 30px;
-    text-align: center;
-    width: 40px;
-}
-.icon.location {
-    padding-top: 3px;
-}
-.icon i {
-    color: #9bd2c9;
-}
-#map {
-    float: right;
-    height: 0;
-    overflow: hidden;
-    padding-bottom: 20%;
-    position: relative;
-    width: 60%;
-}
-#map iframe {
-    left: 0;
-    height: 100%;
-    position: absolute;
-    top: 0;    
-    width: 100%;
-}
-#copyright {
-    clear: both;
-    padding-top: 50px;
 }
 
 /* Sessions & Fees table */
@@ -328,4 +273,61 @@ input[type=submit] {
 }
 input[type=submit]:hover {
     background: #6898ad;
+}
+
+
+/* Footer Section */
+footer {
+    background: #9bd2c9;
+    color: #3a3a3a;
+    overflow: hidden;
+    width: 100%;
+}
+#contact-details {
+    float: left;
+    width: 30%;
+}
+#contact-details p {
+    line-height: 40px;
+}
+#contact-details a {
+    color: #3a3a3a;
+}
+#contact-details a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+.icon {
+    background: #e3ffff;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    height: 40px;
+    margin-right: 30px;
+    text-align: center;
+    width: 40px;
+}
+.icon.location {
+    padding-top: 3px;
+}
+.icon i {
+    color: #9bd2c9;
+}
+#map {
+    float: right;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 20%;
+    position: relative;
+    width: 60%;
+}
+#map iframe {
+    left: 0;
+    height: 100%;
+    position: absolute;
+    top: 0;    
+    width: 100%;
+}
+#copyright {
+    clear: both;
+    padding-top: 50px;
 }
