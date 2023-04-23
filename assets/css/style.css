@@ -32,6 +32,9 @@ p, ul, ol, address, td, th {
     font-style: normal;
     margin-bottom: 18px;
 }
+li {
+    margin-left: 25px;
+}
 a {
     text-decoration: none;
 }
