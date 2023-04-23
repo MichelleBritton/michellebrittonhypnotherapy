@@ -27,7 +27,7 @@ img {
     height: auto;
     max-width: 100%;
 }
-p, ul, ol, address, td, th {
+p, ul, ol, address, td, th, legend, label, input, textarea {
     font-size: 150%;
     font-style: normal;
     margin-bottom: 18px;
@@ -271,4 +271,47 @@ th, td {
     display: none;
     margin-top: 30px;
     text-align: center;
+}
+
+/* Form */
+form {
+    overflow: hidden;
+}
+fieldset {
+    width: 48%;
+}
+fieldset:first-child {
+    float: left;
+}
+fieldset:last-child {
+    float: right;
+}
+legend {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+    width: 100%;
+}
+label {
+    clear: both;
+    float: left;
+    width: 30%;
+}
+input, textarea { 
+    border-radius: 20px;
+    float: right;
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px 20px;
+    width: 70%;
+}
+input[type=submit] {
+    background: #a588a4;
+    border: 3px solid #e3ffff;
+    clear: right;
+    color: #e3ffff;
+    cursor: pointer;
+    float: right;
+    width: 20%;
+}
+input[type=submit]:hover {
+    background: #6898ad;
 }
