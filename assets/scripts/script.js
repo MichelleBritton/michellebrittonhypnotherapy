@@ -11,10 +11,14 @@ function myFunction() {
 /* Responsive Navigation */
 const hamburger = document.querySelector("#hamburger");
 const navMenu = document.querySelector("nav ul");
+const contactLink = document.querySelector("#contact-link");
 
 hamburger.addEventListener("click", mobileMenu);
+contactLink.addEventListener("click", mobileMenu);
 
 function mobileMenu() {
     hamburger.classList.toggle("active");
     navMenu.classList.toggle("active");
+    contactLink.classList.remove("active");
 }
+
