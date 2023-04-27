@@ -252,7 +252,7 @@ h3 {
 
 /* Sessions & Fees table */
 table {
-    width: 60%;
+    width: 100%;
 }
 th, td {
     padding: 10px 0;
@@ -395,6 +395,9 @@ footer {
     }
     input[type=submit] {
         width: 20%;
+    }
+    table {
+        width: 60%;
     }
 }
 
