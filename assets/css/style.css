@@ -275,7 +275,7 @@ form {
     overflow: hidden;
 }
 fieldset {
-    width: 48%;
+    width: 100%;
 }
 fieldset:first-child {
     float: left;
@@ -307,7 +307,7 @@ input[type=submit] {
     color: #e3ffff;
     cursor: pointer;
     float: right;
-    width: 20%;
+    width: 40%;
 }
 input[type=submit]:hover {
     background: #6898ad;
@@ -371,16 +371,6 @@ footer {
     padding-top: 50px;
 }
 
-/* Media Queries: Small devices from 576px wide and up */
-@media screen and (min-width: 576px) {
-    
-}
-
-/* Media Queries: Medium devices from 768px wide and up */
-@media screen and (min-width: 768px) {
-    
-}
-
 /* Media Queries: Large devices from 1024px wide and up */
 @media screen and (min-width: 1024px) {
     header {
@@ -399,6 +389,12 @@ footer {
     nav ul > li {
         display: inline;
         margin: 0 15px;
+    }
+    fieldset {
+        width: 48%;
+    }
+    input[type=submit] {
+        width: 20%;
     }
 }
 
