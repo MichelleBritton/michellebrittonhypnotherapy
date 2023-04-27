@@ -275,7 +275,6 @@ input[type=submit]:hover {
     background: #6898ad;
 }
 
-
 /* Footer Section */
 footer {
     background: #9bd2c9;
@@ -312,6 +311,8 @@ footer {
 .icon i {
     color: #9bd2c9;
 }
+/*  Responsive Google Map
+    Credit: https://blog.duda.co/responsive-google-maps-for-your-website */
 #map {
     float: right;
     height: 0;
