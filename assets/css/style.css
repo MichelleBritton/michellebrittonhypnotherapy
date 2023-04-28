@@ -45,6 +45,9 @@ header {
     padding: 20px 0;
     text-align: center;
 }
+header a {
+    display: inline-block;
+}
 #logo {
     margin: 0 auto 30px;
 }
@@ -55,9 +58,8 @@ header {
     letter-spacing: 2px;
 }
 
-/* Navigation */
 /* Responsive Navigation
-   Credit: https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+   Credit: https://www.w3schools.com/howto/howto_js_sidenav.asp
 */
 #hamburger {
     cursor: pointer;
@@ -65,7 +67,6 @@ header {
     position: fixed;
     right: 2%;
     top: 2%;
-    z-index: 10;
 }
 .bar {
     background: #3a3a3a;
@@ -74,43 +75,41 @@ header {
     margin: 5px auto;
     width: 25px;
 }
-#hamburger.active .bar:nth-child(2) {
-    opacity: 0;
+#nav {
+    display: none;
 }
-#hamburger.active .bar:nth-child(1) {
-    transform: translateY(8px) rotate(45deg);
-}
-#hamburger.active .bar:nth-child(3) {
-    transform: translateY(-8px) rotate(-45deg);
-}
-
-nav {
+#mobile-nav {
     background: #a588a4;
-    text-align: center;
+    height: 100%; 
+    left: 0;
+    overflow-x: hidden; 
+    padding-top: 10%; 
+    position: fixed;    
+    top: 0;     
+    transition: 0.5s; 
+    width: 0;
+    z-index: 1; 
 }
-nav ul {
-    background: #a588a4;
-    font-size: 120%;
-    height: 100vh;
-    left: -100%;
+#mobile-nav ul {
+    font-size: 150%;
     list-style: none;
     margin: 0;
-    padding: 10% 0;
-    position: fixed;
-    top: 0;
-    transition: 0.3s;   
-    width: 100%;
-    z-index: 5;
 }
-nav ul.active {
-    left: 0;
-}
-nav a {
+#mobile-nav a {
+    border-bottom: 2px solid #a588a4;
     color: #e3ffff;
-    display: inline-block;
+    transition: 0.3s;
 }
-nav a:hover, a.active {
+#mobile-nav a:hover, #mobile-nav a.active {
     border-bottom: 2px solid #e3ffff;
+}
+.close-btn {
+    font-size: 300%;
+    line-height: .5; 
+    padding: 0;
+    position: absolute;
+    right: 2%;
+    top: 2%;    
 }
 
 /* Common Section Elements */
@@ -126,8 +125,11 @@ nav a:hover, a.active {
 #main-img {
     height: 400px;
     object-fit: cover;
-    object-position: center -80px;
+    object-position: center -40px;
     width: 100%;
+}
+#main-img.img-right {
+    object-position: right -40px;
 }
 .blue {
     background: #6898ad;
@@ -371,24 +373,39 @@ footer {
     padding-top: 50px;
 }
 
-/* Media Queries: Large devices from 1024px wide and up */
+/* Media Queries: Medium devices from 1024px wide and up */
 @media screen and (min-width: 1024px) {
     header {
         padding: 20px 0 0 0;
     }
-    #hamburger {
+    #hamburger, #mobile-nav {
         display: none;
     }    
-    nav ul {
-        font-size: 130%;
-        height: auto;
-        left: 0;
+    #nav {
+        background: #a588a4;
+        display: block;
         padding: 20px 0;
-        position: relative;
+        text-align: center;
     }
-    nav ul > li {
+    #nav ul {
+        font-size: 130%;
+        margin: 0;
+    }
+    #nav ul > li {
         display: inline;
         margin: 0 15px;
+    }
+    #nav a {
+        border-bottom: 2px solid #a588a4;
+        color: #e3ffff;
+        display: inline-block;
+        transition: 0.3s;
+    }
+    #nav a:hover, #nav a.active {
+        border-bottom: 2px solid #e3ffff;
+    }
+    #main-img, #main-img.img-right {
+        object-position: center -80px;
     }
     fieldset {
         width: 48%;
@@ -401,12 +418,12 @@ footer {
     }
 }
 
-/* Media Queries: Extra large devices from 1200px wide and up */
+/* Media Queries: Large devices from 1200px wide and up */
 @media screen and (min-width: 1200px) {
-    nav ul {
+    #nav ul {
         font-size: 150%;
     }
-    nav ul > li {
+    #nav ul > li {
         margin: 0 25px;
     }
     p, ul, ol, address, td, th, legend, label, input, textarea {
@@ -462,7 +479,7 @@ footer {
     }
 }
 
-/* Media Queries: Extra, extra large devices from 1800px wide and up */
+/* Media Queries: Extra large devices from 1800px wide and up */
 @media screen and (min-width: 1800px) {
     #contact-details {
         width: 30%;

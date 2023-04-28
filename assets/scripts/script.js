@@ -10,20 +10,13 @@ function myFunction() {
   }
 
 /* Responsive Navigation 
-  Credit: https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci*/
-const hamburger = document.querySelector("#hamburger");
-const navMenu = document.querySelector("nav ul");
-const contactLink = document.querySelector("#contact-link");
-const closeLink = document.querySelector("#close-link");
-
-hamburger.addEventListener("click", mobileMenu);
-contactLink.addEventListener("click", mobileMenu);
-closeLink.addEventListener("click", mobileMenu);
-
-function mobileMenu() {
-    hamburger.classList.toggle("active");
-    navMenu.classList.toggle("active");
-    contactLink.classList.remove("active");
-    closeLink.classList.remove("active");
+  Credit: https://www.w3schools.com/howto/howto_js_sidenav.asp
+*/
+/* Set the width of the side navigation to 100% */
+function openNav() {
+  document.getElementById("mobile-nav").style.width = "100%";
 }
-
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+  document.getElementById("mobile-nav").style.width = "0";
+}
