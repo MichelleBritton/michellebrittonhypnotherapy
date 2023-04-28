@@ -54,7 +54,7 @@ header a {
 #tagline {
     color: #3a3a3a;
     font-family: 'james_fajardoregular', sans-serif;
-    font-size: 400%;
+    font-size: 300%;
     letter-spacing: 2px;
 }
 
@@ -378,6 +378,9 @@ footer {
 @media screen and (min-width: 1024px) {
     header {
         padding: 20px 0 0 0;
+    }
+    #tagline {
+        font-size: 400%;
     }
     #hamburger, #mobile-nav {
         display: none;
