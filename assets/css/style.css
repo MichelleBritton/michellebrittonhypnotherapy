@@ -198,6 +198,7 @@ h3 {
 #how-can-hypnotherapy-help {
     background: url('../images/hypnotherapy-session.jpg') no-repeat;
     background-size: cover;
+    -webkit-background-size: 2650px 1440px;
     background-position: center;
     background-attachment: fixed;
     overflow: hidden;
