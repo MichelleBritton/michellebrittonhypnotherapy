@@ -471,7 +471,7 @@ footer {
         font-size: 120%;
     }
     #contact-details {
-        width: 55%;
+        width: 60%;
     }
     #map {
         padding-bottom: 40%;
@@ -480,9 +480,9 @@ footer {
 }
 
 /* Media Queries: Extra large devices from 1800px wide and up */
-@media screen and (min-width: 1800px) {
+@media screen and (min-width: 1900px) {
     #contact-details {
-        width: 30%;
+        width: 35%;
     }
     #map {
         padding-bottom: 20%;
