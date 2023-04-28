@@ -404,9 +404,6 @@ footer {
     #nav a:hover, #nav a.active {
         border-bottom: 2px solid #e3ffff;
     }
-    #main-img, #main-img.img-right {
-        object-position: center -80px;
-    }
     fieldset {
         width: 48%;
     }
@@ -449,6 +446,9 @@ footer {
     a.btn, #content a.btn, button.btn {       
         font-size: 200%;
         width: 60%;
+    }
+    #main-img, #main-img.img-right {
+        object-position: center -80px;
     }
     #how-can-hypnotherapy-help > div {
         width: 23.5%;
