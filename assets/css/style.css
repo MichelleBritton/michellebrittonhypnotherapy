@@ -105,6 +105,8 @@ header a {
     border-bottom: 2px solid #e3ffff;
 }
 .close-btn {
+    color: #e3ffff;
+    cursor: pointer;
     font-size: 300%;
     line-height: .5; 
     padding: 0;
