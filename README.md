@@ -1,108 +1,171 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Michelle Britton,
+# Portfolio Project 1 - Michelle Britton Hypnotherapy Website
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The Michelle Britton Hypnotherapy website has been designed to present useful information to users who may be experiencing a variety of symptoms which could be improved by the use of hypnotherapy. It has been built using HTML and CSS together with a small amount of JavaScript and is responsively designed allowing users to view it on a range of devices.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Screenshot of website on multiple devices](documentation/screenshot.png)
 
-## Gitpod Reminders
+[View Michelle Britton Hypnotherapy on GitHub Pages](https://michellebritton.github.io/michellebrittonhypnotherapy)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+![GitHub last commit](https://img.shields.io/github/last-commit/michellebritton/michellebrittonhypnotherapy?style=for-the-badge)![GitHub contributors](https://img.shields.io/github/contributors/michellebritton/michellebrittonhypnotherapy?style=for-the-badge)![GitLab language count](https://img.shields.io/gitlab/languages/count/michellebritton/michellebrittonhypnotherapy?style=for-the-badge)![GitHub top language](https://img.shields.io/github/languages/top/michellebritton/michellebrittonhypnotherapy?style=for-the-badge)![W3C Validation](https://img.shields.io/w3c-validation/html?style=for-the-badge&targetUrl=https%3A%2F%2Fmichellebritton.github.io%2Fmichellebrittonhypnotherapy%2Findex.html)
 
-`python3 -m http.server`
+## CONTENTS
 
-A blue button should appear to click: _Make Public_,
+- User Experience
+    - Initial Discussion
+    - User Stories
+- Design 
+    - Colour Scheme
+    - Typography
+    - Imagery
+    - Wireframes
+    - Features
+    - Accessibility
+- Technologies Used
+    - Languages Used
+    - Frameworks, Libraries and Programs Used
+- Deployment and Local Development
+    - Deployment
+    - Local Development
+        - How to Fork 
+        - How to Clone
+- Testing
+    - W3C Validator
+    - Solved Bugs
+    - Known Bugs
+    - Testing User Stories
+    - Lighthouse
+        - Index Page
+        -
+        -
+        -
+    - Full Testing
+- Credits
+    - Code Used
+    - Content 
+    - Media 
+    - Acknowledgments
 
-Another blue button should appear to click: _Open Browser_.
+## User Experience
+### Initial Discussion
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Michelle Britton is a newly qualified Hypnotherapist who would like an online presence to help build up a client base. It is an informative website aimed at users who are interested in understanding how hypnotherapy works and how it may be able to help them resolve any issues that they may be experiencing, whilst encouraging them to book an initial consultation with the Hypnotherapist and generally prommoting a positive vibe.
 
-A blue button should appear to click: _Make Public_,
+### User Stories
 
-Another blue button should appear to click: _Open Browser_.
+#### Client Goals
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- To have a clear and intuitive navigation.
+- To be able to contact the Hypnotherapist easily.
+- To be able to find out what Hypnotherapy is.
+- To be able to demonstrate how Hypnotherapy can benefit the user.
+- To make the user feel at ease by informing them of what they can expect during a session.
+- To clearly set out the Hypnotherapist's fees.
+- To be able to view the website on a variety of devices.
 
-To log into the Heroku toolbelt CLI:
+#### First Time Visitor Goals
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- I want to find out if Hypnotherapy can help me.
+- I want to find out what happens during a session.
+- I want to find out how much it will cost and how many sessions I will need to attend.
+- I want to be able to easily find the information that I am looking for.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Returning Visitor Goals
 
-------
+- I want to listen to the Relaxation CD in between sessions.
 
-## Release History
+## Design
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Colour Scheme
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+The colours used throughout the site were chosen as they match the colours contained in the logo. The addition of the lavender colour was found using the mycolor.space color palette generator.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+### Typography
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+The logo, tagline and positive quote section uses the font James Fajardo which was downloaded from [1001 fonts](https://www.1001fonts.com/james-fajardo-font.html) and a web font kit was generated using [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator).
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Open Sans, a serif font, was imported from [Google Fonts](https://fonts.google.com/) for headings and body text.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Imagery
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+The logo was designed by a third party Graphic Designer, who has been credited in the credits section. Images used throughout the site were either purchased from [iStock](https://www.istockphoto.com/) or free images from [Pexels](https://www.pexels.com/). 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### Wireframes
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+A wireframe was created for desktop using the [Marvel App](https://marvelapp.com/) website.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+[Home Page wireframe](https://marvelapp.com/prototype/2ii1d50g/screen/91345931)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+[What is Hypnotherapy wireframe](https://marvelapp.com/prototype/2ii1d50g/screen/91377357)
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+[Sessions & Fees wireframe](https://marvelapp.com/prototype/2ii1d50g/screen/91377481)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+[How can Hypnotherapy help pages wireframe](https://marvelapp.com/prototype/2ii1d50g/screen/91348200)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Features
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+There are thirteen pages in total, using three templates, all of which follow the same structure. Each template contains a header, navigation, a positive quote section and a footer containing contact details and a Google map. The only variation to each template is the main content area.
 
-------
+#### Navigation
 
-## FAQ about the uptime script
+The navigation bar contains five links which allow the user to navigate through the site.  The "How can Hypnotherapy Help?" links to the appropriate section on the Home page, whilst the Contact link takes you to the footer contained on the current page. 
 
-**Why have you added this script?**
+Taking into account good user experience, when viewing on smaller devices the navigation bar is hidden and a hamburger icon appears in the top right corner, it is fixed in position so that the user can easily find it without having to scroll back to the top of each page.  Once clicked, a full page navigation slides in from the left hand side.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+#### Positive Quote
 
-**How will this affect me?**
+To promote a positive vibe throughout the site, each page contains a quote.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+#### Footer
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+The footer contains contact details such as telephone, email, address and a link to Facebook, together with a Google map showing the Hypnotherapist's location.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+#### Template One
+##### Home Page
 
-**So….?**
+The Home page uses a template which is unique to the home page. It contains the following sections: 
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+- Introduction 
+    - This section includes a brief overview of Hypnotherapy
+- How Can Hypnotherapy Help?
+    - This section contains a fixed background image with eight boxes containing links to common issues that hypnotherapy can help with.
+- About Me 
+    - This section contains information about the Hypnotherapist's qualifications, insurance and memberships.
 
-**Can I opt out?**
+#### Template Two
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+The second template has a main content area for the main body of text and a form to enable the user to book an initial consultation or submit a general enquiry. The following pages use this template:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+##### What is Hypnotherapy? Page
 
-**Anything more?**
+This page contains information about Hypnotherapy, Hypnosis and managing the user's expectations. Following the main body of text is a large link to the Sessions & Fees page which helps the user follow the natural flow of information.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+##### Sessions & Fees Page
 
----
+This page contains information regarding what to expect during a session, how long the sessions are, how much the sessions cost, Cancellation Policy together with Terms and Conditions.  There is a large link encouraging users to click to listen to the Relaxation CD.  Once clicked, audio controls appear beneath the link. 
 
-Happy coding!
+##### Thank You Page
+
+Once the form has been submitted the user will land on the Thank You page which contains a message informing the user that their message has been sent and the Hypnotherapist will be in touch soon.  This page also redirects back to the home page after 5 seconds.
+
+##### 404 Error Page
+
+I have included this page to inform users that the page they are looking for has not been found.  It contains a link back to the Home page.
+
+#### Template Three 
+
+The third template is very similar to Template Two above, the only difference being that there is an image at the top of each page.  The following pages use this template and each contain information regarding the issue and how hypnotherapy can help: 
+
+- Depression 
+- Anxiety
+- Stress
+- OCD
+- Insomnia
+- Phobias & Fears 
+- Quit Smoking
+- Other Issues
+
+#### Future Implementations
+
+#### Accessibility 
+
