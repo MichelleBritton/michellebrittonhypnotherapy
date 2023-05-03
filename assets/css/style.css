@@ -315,6 +315,7 @@ input[type=submit] {
     color: #e3ffff;
     cursor: pointer;
     float: right;
+    font-weight: 600;
     width: 40%;
 }
 input[type=submit]:hover {
