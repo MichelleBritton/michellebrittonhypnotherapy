@@ -21,7 +21,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color: #212121;
+    color: #000;
 }
 img {
     display: block;
@@ -138,19 +138,19 @@ header a {
 }
 .blue {
     background: #6898ad;
-    color: #212121;
+    color: #000;
 }
 .blue a {
-    color: #3a3a3a;
+    color: #ccc;
 }
 .blue a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #ccc;
 }
 #content a {
-    color: #6898ad;
-}
+    color: #3a3a3a;
+} 
 #content a:hover {
-    border-bottom: 1px solid #6898ad;
+    border-bottom: 1px solid #3a3a3a;
 }
 a.btn, #content a.btn, button.btn {
     background: #a588a4;
@@ -227,12 +227,12 @@ h3 {
     margin-left: 0;
 }
 #how-can-hypnotherapy-help h2 {
-    color: #6898ad;
+    color: #3a3a3a;
     margin-bottom: 50px;
     text-align: center;
 }
 #how-can-hypnotherapy-help h3 {
-    color: #6898ad;
+    color: #3a3a3a;
     margin: 10px 0;
 }
 #how-can-hypnotherapy-help img {
@@ -324,7 +324,7 @@ input[type=submit]:hover {
 /* Footer Section */
 footer {
     background: #9bd2c9;
-    color: #212121;
+    color: #3a3a3a;
     overflow: hidden;
     width: 100%;
 }
@@ -336,10 +336,10 @@ footer {
     line-height: 40px;
 }
 #contact-details a {
-    color: #212121;
+    color: #3a3a3a;
 }
 #contact-details a:hover {
-    border-bottom: 1px solid #212121;
+    border-bottom: 1px solid #3a3a3a;
 }
 .icon {
     background: #e3ffff;
