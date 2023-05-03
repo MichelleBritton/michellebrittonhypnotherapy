@@ -285,14 +285,17 @@ Initial and Final testing for Desktop Home page
 
 Initial testing for Mobile Home page
 
-![Initial and Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
+![Initial for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
 
 Suggestions: 
 
 - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
 - Properly size images to improve load time
-- Improve colour contrast for blue sections with white text
+- Improve colour contrast for blue sections with white text. I have changed the text from white to black and all types of grey in between and I cannot improve on the accessibility score of 97.  I have used the WebAIM site to check the contrast.  With white text on the blue background the contrast ratio was 3.14:1.  With Black text the ratio is 6.68:1 which would pass WCAG AA guidelines. 
 - Serves images with low resolution.
+
+Final testing for Mobile Home page
+![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
 
 ### Full Testing 
 
