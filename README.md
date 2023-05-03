@@ -24,13 +24,10 @@ The Michelle Britton Hypnotherapy website has been designed to present useful in
 - Technologies Used
     - Languages Used
     - Frameworks, Libraries and Programs Used
-- Deployment and Local Development
-    - Deployment
-    - Local Development
-        - How to Fork 
-        - How to Clone
+- Deployment 
 - Testing
     - W3C Validator
+    - Jigsaw CSS Validator
     - Solved Bugs
     - Known Bugs
     - Testing User Stories
@@ -78,7 +75,7 @@ Michelle Britton is a newly qualified Hypnotherapist who would like an online pr
 
 ### Colour Scheme
 
-The colours used throughout the site were chosen as they match the colours contained in the logo. The addition of the lavender colour was found using the mycolor.space color palette generator.
+The colours used throughout the site were chosen as they match the colours contained in the logo. The addition of the lavender colour was found using the [ColorSpace](https://mycolor.space/) color palette generator.
 
 ### Typography
 
@@ -161,11 +158,72 @@ The third template is very similar to Template Two above, the only difference be
 - Stress
 - OCD
 - Insomnia
-- Phobias & Fears 
+- Phobias & Fears  
 - Quit Smoking
 - Other Issues
 
 #### Future Implementations
 
+- Create a catalogue of various hypnotherapy audio tracks aimed at specific issues for purchase
+- Create a news section
+
 #### Accessibility 
+
+To ensure that the website is as accessible as possible, I have used: 
+
+- Semantic HTML to structure and organise content
+- Provided alt attributes for all images 
+- Added Aria labels for links that go to external websites 
+- Ensuring that there is a good colour contrast throughout the site whilst maintaining the integrity of the design 
+- Ensuring that users can navigate through the site without a mouse by using the tab key on the keyboard
+- Clearly label each field in the form
+- Adding an active class to the navigation to demonstrate the current page 
+
+## Technologies Used 
+
+### Languages Used 
+
+This website was built with HTML and CSS.  A small amount of JavaScript was used and the code for this has been credited in the Credits Section.
+
+### Frameworks, Libraries and Programs Used
+
+- [Marvel App](https://marvelapp.com/) - for creating wireframes
+- [Git](https://git-scm.com/) - a version control system for tracking changes
+- [GitHub](https://github.com/) - a code hosting platform for version control
+- [Gitpod](https://www.gitpod.io/) - a cloud development environment
+- [GitHub Pages](https://pages.github.com/) - for deployment of website
+- [Google Fonts](https://fonts.google.com/) - catalogue of open source fonts
+- [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator) - to generate a web font kit
+- [ColorSpace](https://mycolor.space/) - to generate a colour palette
+- [Font Awesome](https://fontawesome.com/) - to generate icons used in the footer
+- [TinyPNG](https://tinypng.com/) - to compress images
+- [Am I Responsive?](https://ui.dev/amiresponsive) - to generate a screenshot of the website on multiple devices
+- [Shields](https://shields.io/) - to generate badges for inclusion in the README field
+- [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) - for testing and debugging the website
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for accessibility and performance reporting
+- [WAVE](https://wave.webaim.org/) - for accessibilty testing
+- [The W3C Markup Validation Service](https://validator.w3.org/) - for validating HTML 
+- [Jigsaw](https://jigsaw.w3.org/css-validator/) - for validating CSS
+- [Browserstack](https://www.browserstack.com/) - for cross browser testing
+
+## Deployment 
+
+GitHub Pages was used for deployment of the website directly from the GitHub repository by following these steps: 
+
+- Log in to GitHub
+- Locate the repository that you are deploying
+- Click on "Settings"
+- Click on "Pages"
+- Select the source to deploy from, in this case it was "Deploy from a branch"
+- Select the branch, in this case it was the "main" branch
+- Select the root folder
+- Click on "Save".  It may take a few minutes but your site is now live and the URL will appear.
+
+## Testing
+
+Chrome Developer Tools were used throughout the course of development, mainly to troubleshoot any layout issues that arose, such as margins and paddings, especially when optimising for smaller devices.
+
+### W3C Validator 
+
+
 
