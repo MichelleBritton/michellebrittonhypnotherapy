@@ -17,6 +17,46 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 
 ### W3C Validator
 
+#### Home HTML Validation
+![Screenshot of HTML validation of Home Page](documentation/testing/html-v-home.png)
+
+#### What is Hypnotherapy? HTML Validation
+![Screenshot of HTML validation of What is Hypnotherapy Page](documentation/testing/html-v-what-is-hypno.png)
+
+#### Sessions & Fees HTML Validation
+![Screenshot of HTML validation of Sessions & Fees Page](documentation/testing/html-v-sessions.png)
+
+#### Depression HTML Validation
+![Screenshot of HTML validation of Depression Page](documentation/testing/html-v-depression.png)
+
+#### Anxiety HTML Validation
+![Screenshot of HTML validation of Anxiety Page](documentation/testing/html-v-anxiety.png)
+
+#### Stress HTML Validation
+![Screenshot of HTML validation of Stress Page](documentation/testing/html-v-stress.png)
+
+#### OCD HTML Validation
+![Screenshot of HTML validation of OCD Page](documentation/testing/html-v-ocd.png)
+
+#### Insomnia HTML Validation
+![Screenshot of HTML validation of Insomnia Page](documentation/testing/html-v-insomnia.png)
+
+#### Phobias & Fears HTML Validation
+![Screenshot of HTML validation of Phobias & Fears Page](documentation/testing/html-v-phobias.png)
+
+#### Quit Smoking HTML Validation
+![Screenshot of HTML validation of Quit Smoking Page](documentation/testing/html-v-smoking.png)
+
+#### Other Issues HTML Validation
+![Screenshot of HTML validation of Other Issues Page](documentation/testing/html-v-other.png)
+
+#### Thank You HTML Validation
+![Screenshot of HTML validation of Thank You Page](documentation/testing/html-v-.png). **** NEED TO FIX ****
+
+#### 404 HTML Validation
+![Screenshot of HTML validation of 404 Page](documentation/testing/html-v-404.png)
+
+
 
 
 ### Jigsaw CSS Validator
