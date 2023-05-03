@@ -141,11 +141,10 @@ header a {
     color: #fff;
 }
 .blue a {
-    color: #ccc;
+    color: #EBFDFF;
 }
 .blue a:hover {
-    border-bottom: 1px solid #ccc;
-    color: #ccc;
+    border-bottom: 1px solid #EBFDFF;
 }
 #content a {
     color: #3a3a3a;
