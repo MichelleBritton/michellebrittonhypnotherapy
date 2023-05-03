@@ -281,7 +281,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 Initial and Final testing for Desktop Home page
 
-![Initial and Final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
+![Initial and final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
 
 Initial testing for Mobile Home page
 
@@ -295,7 +295,20 @@ Suggestions:
 - Serves images with low resolution.
 
 Final testing for Mobile Home page
+
 ![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
+
+#### What is Hypnotherapy Page 
+
+Initial and finaal testing for Desktop What is Hypnotherapy page
+
+![Initial and Final testing for Desktop What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-desktop.png)
+
+Initial and final testing for Mobile What is Hypnotherapy page
+
+![Initial and Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
+
+
 
 ### Full Testing 
 
