@@ -21,7 +21,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #212121;
 }
 img {
     display: block;
@@ -138,7 +138,7 @@ header a {
 }
 .blue {
     background: #6898ad;
-    color: #fff;
+    color: #212121;
 }
 .blue a {
     color: #3a3a3a;
@@ -324,7 +324,7 @@ input[type=submit]:hover {
 /* Footer Section */
 footer {
     background: #9bd2c9;
-    color: #3a3a3a;
+    color: #212121;
     overflow: hidden;
     width: 100%;
 }
@@ -336,10 +336,10 @@ footer {
     line-height: 40px;
 }
 #contact-details a {
-    color: #3a3a3a;
+    color: #212121;
 }
 #contact-details a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #212121;
 }
 .icon {
     background: #e3ffff;
