@@ -42,7 +42,7 @@ a {
 
 /* Header */
 header {
-    background: #9bd2c9 url(../images/header-bg.png) center top no-repeat;
+    background: #9bd2c9 url(../images/header-bg.webp) center top no-repeat;
     padding: 20px 0 10px;
     text-align: center;
 }
@@ -51,6 +51,7 @@ header a {
 }
 #logo {
     margin: 0 auto 40px;
+    width: auto;
 }
 #tagline {
     color: #545479;
@@ -171,7 +172,7 @@ a.btn:hover, #content a.btn:hover, button.btn:hover {
 
 /* Headings */
 h1, .circle {
-    background: url(../images/h1-circle.png) no-repeat; 
+    background: url(../images/h1-circle.webp) no-repeat; 
 	font-size: 150%;
     font-weight: 300;
     line-height: 2;
@@ -200,7 +201,7 @@ h3 {
 
 /* How Can Hypnotherapy Help Section */
 #how-can-hypnotherapy-help {
-    background: url('../images/hypnotherapy-session.jpg') no-repeat;
+    background: url('../images/hypnotherapy-session.webp') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     background-position: center;
