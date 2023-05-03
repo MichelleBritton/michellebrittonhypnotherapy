@@ -308,7 +308,15 @@ Initial and final testing for Mobile What is Hypnotherapy page
 
 ![Initial and Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
 
+#### Sessions & Fees Page 
 
+Initial and finaal testing for Desktop Sessions & Fees page
+
+![Initial and Final testing for Desktop Sessions & Fees page](documentation/testing/lighthouse/sessions-desktop.png)
+
+Initial and final testing for Mobile Sessions & Fees page
+
+![Initial and Final testing for Mobile Sessions & Fees page](documentation/testing/lighthouse/sessions-mobile.png)
 
 ### Full Testing 
 
