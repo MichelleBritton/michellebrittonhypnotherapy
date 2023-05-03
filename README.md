@@ -11,37 +11,37 @@ The Michelle Britton Hypnotherapy website has been designed to present useful in
 
 ## CONTENTS
 
-- User Experience
-    - Initial Discussion
-    - User Stories
-- Design 
-    - Colour Scheme
-    - Typography
-    - Imagery
-    - Wireframes
-    - Features
-    - Accessibility
-- Technologies Used
-    - Languages Used
-    - Frameworks, Libraries and Programs Used
-- Deployment 
-- Testing
-    - W3C Validator
-    - Jigsaw CSS Validator
-    - Solved Bugs
-    - Known Bugs
-    - Testing User Stories
-    - Lighthouse
+- [User Experience](#user-experience)
+    - [Initial Discussion](#initial-discussion)
+    - [User Stories](#user-stories)
+- [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+    - [Features](#features)
+    - [Accessibility](#accessibility)
+- [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Programs Used](#programs-used)
+- [Deployment](#deployment) 
+- [Testing](#testing)
+    - [W3C Validator](#w3c-validator)
+    - [Jigsaw CSS Validator](#jigsaw-css-validator)
+    - [Solved Bugs](#solved-bugs)
+    - [Known Bugs](#known-bugs)
+    - [Testing User Stories](#testing-user-stories)
+    - [Lighthouse](#lighthouse)
         - Index Page
         -
         -
         -
-    - Full Testing
-- Credits
-    - Code Used
-    - Content 
-    - Media 
-    - Acknowledgments
+    - [Full Testing](#full-testing)
+- [Credits](#credits)
+    - [Code Used](#code-used)
+    - [Content](#content) 
+    - [Media](#media) 
+    - [Acknowledgments](#acknowledgements)
 
 ## User Experience
 ### Initial Discussion
