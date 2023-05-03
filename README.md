@@ -300,23 +300,35 @@ Final testing for Mobile Home page
 
 #### What is Hypnotherapy Page 
 
-Initial and finaal testing for Desktop What is Hypnotherapy page
+Initial and final testing for Desktop What is Hypnotherapy page
 
 ![Initial and Final testing for Desktop What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-desktop.png)
 
-Initial and final testing for Mobile What is Hypnotherapy page
+Initial testing for Mobile What is Hypnotherapy page
 
 ![Initial and Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
 
 #### Sessions & Fees Page 
 
-Initial and finaal testing for Desktop Sessions & Fees page
+Initial and final testing for Desktop Sessions & Fees page
 
 ![Initial and Final testing for Desktop Sessions & Fees page](documentation/testing/lighthouse/sessions-desktop.png)
 
 Initial and final testing for Mobile Sessions & Fees page
 
 ![Initial and Final testing for Mobile Sessions & Fees page](documentation/testing/lighthouse/sessions-mobile.png)
+
+#### Depression Page 
+
+Initial and final testing for Desktop Depression page
+
+![Initial and Final testing for Desktop Depression page](documentation/testing/lighthouse/depression-desktop.png)
+
+Initial and final testing for Mobile Depression page
+
+![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/depression-mobile.png)
+
+
 
 ### Full Testing 
 
