@@ -43,14 +43,14 @@ a {
 /* Header */
 header {
     background: #9bd2c9 url(../images/header-bg.png) center top no-repeat;
-    padding: 20px 0;
+    padding: 20px 0 10px;
     text-align: center;
 }
 header a {
     display: inline-block;
 }
 #logo {
-    margin: 0 auto 30px;
+    margin: 0 auto 40px;
 }
 #tagline {
     color: #545479;
