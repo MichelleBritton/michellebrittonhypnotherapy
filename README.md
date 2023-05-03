@@ -264,7 +264,12 @@ The CSS stylesheet was validated using the Jigsaw Validator.
 No known bugs.
 
 ### Testing User Stories
-
+- First Time Visitors
+    - **I want to find out if Hypnotherapy can help me.** On the homepage there is a prominent section entitled "How Can Hypnotherapy Help?" with links that take you to specific issues.  Underneath that section there is a link that take you to the next page "What is Hypnotherapy"
+    ![Screenshot of How Hypnotherapy Can Help](documentation/how-hypno-helps-screenshot.png)
+    - **I want to find out what happens during a session.**
+    - **I want to find out how much it will cost and how many sessions I will need to attend.**
+    - **I want to be able to easily find the information that I am looking for.**
 
 
 ### Lighthouse 
