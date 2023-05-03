@@ -3,7 +3,7 @@
 
 The Michelle Britton Hypnotherapy website has been designed to present useful information to users who may be experiencing a variety of symptoms which could be improved by the use of hypnotherapy. It has been built using HTML and CSS together with a small amount of JavaScript and is responsively designed allowing users to view it on a range of devices.
 
-![Screenshot of website on multiple devices](documentation/screenshot.png)
+![Screenshot of website on multiple devices](documentation/screenshots/screenshot.png)
 
 [View Michelle Britton Hypnotherapy on GitHub Pages](https://michellebritton.github.io/michellebrittonhypnotherapy)
 
@@ -32,10 +32,6 @@ The Michelle Britton Hypnotherapy website has been designed to present useful in
     - [Known Bugs](#known-bugs)
     - [Testing User Stories](#testing-user-stories)
     - [Lighthouse](#lighthouse)
-        - Index Page
-        -
-        -
-        -
     - [Full Testing](#full-testing)
     - [Credits](#credits)
     - [Code Used](#code-used)
@@ -266,20 +262,35 @@ No known bugs.
 ### Testing User Stories
 - First Time Visitors
     - **I want to find out if Hypnotherapy can help me.** On the homepage there is a prominent section entitled "How Can Hypnotherapy Help?" with links that take you to specific issues.  Underneath that section there is a link that take you to the next page "What is Hypnotherapy"
-    ![Screenshot of How Hypnotherapy Can Help](documentation/how-hypno-helps-screenshot.png)
+    ![Screenshot of How Hypnotherapy Can Help](documentation/screenshots/how-hypno-helps-screenshot.png)
     - **I want to find out what happens during a session.** There is a link in the navigation and also a link on the What is Hypnotherapy page which takes you to the Sessions & Fees page where all the relevant information can be found.
-    ![Screenshot of how to reach the Sessions & Fees page](documentation/sessions-screenshot-1.png)
+    ![Screenshot of how to reach the Sessions & Fees page](documentation/screenshots/sessions-screenshot-1.png)
     - **I want to find out how much it will cost and how many sessions I will need to attend.** This can be found easily directly from the navigation.
-    ![Screenshot of Sessions & Fees page](documentation/sessions-screenshot-2.png)
+    ![Screenshot of Sessions & Fees page](documentation/screenshots/sessions-screenshot-2.png)
     - **I want to be able to easily find the information that I am looking for.** All navigation links are contained in the navigation which is consistent throughout the website.  The navigation sits just underneath the header on each page and when viewed on a small device a small hamburger icon is fixed to the top right corner.
-    ![Screenshot of navigation](documentation/nav-screenshot.png)
+    ![Screenshot of navigation](documentation/screenshots/nav-screenshot.png)
 - Returning Visitor Goals
     - **I want to listen to the Relaxation CD in between sessions.** There is a link on the Sessions & Fees page which, when clicked, reveals audio controls.
-    ![Screenshot of audio controls](documentation/cd-screenshot.png)
+    ![Screenshot of audio controls](documentation/screenshots/cd-screenshot.png)
 
 ### Lighthouse 
 
+In order to test performance, accessibility, best practices and SEO, I used Lighthouse within the Chrome Developer Tools. 
 
+#### Home Page
+
+Initial and Final testing for Desktop Home page
+![Initial and Final testing for Desktop Home page](documentation/lighthouse/home-desktop.png)
+
+Initial testing for Mobile Home page
+![Initial and Final testing for Mobile Home page](documentation/lighthouse/home-mobile.png)
+
+Suggestions: 
+
+- Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
+- Properly size images to improve load time
+- Improve colour contrast for blue sections with white text
+- Serves images with low resolution.
 
 ### Full Testing 
 
