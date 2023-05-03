@@ -20,7 +20,7 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 #### Home HTML Validation
 ![Screenshot of HTML validation of Home Page](documentation/testing/html-v-home.png)
 
-#### What is Hypnotherapy? HTML Validation
+#### What is Hypnotherapy HTML Validation
 ![Screenshot of HTML validation of What is Hypnotherapy Page](documentation/testing/html-v-what-is-hypno.png)
 
 #### Sessions & Fees HTML Validation
