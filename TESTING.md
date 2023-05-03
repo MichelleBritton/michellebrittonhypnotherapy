@@ -56,12 +56,10 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 #### 404 HTML Validation
 ![Screenshot of HTML validation of 404 Page](documentation/testing/html-v-404.png)
 
-
-
-
 ### Jigsaw CSS Validator
 
-
+#### Stylesheet Validation
+![Screenshot of CSS validation](documentation/testing/css-v.png)
 
 ### Lighthouse
 

@@ -245,6 +245,8 @@ All pages contained in the website were validated using the W3C Validator.
 
 The CSS stylesheet was validated using the Jigsaw Validator. 
 
+- [Stylesheet](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#stylesheet-validation)
+
 ### Solved Bugs 
 
 
