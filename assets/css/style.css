@@ -310,12 +310,11 @@ input, textarea {
 }
 input[type=submit] {
     background: #a588a4;
-    border: 3px solid #e3ffff;
+    border: 3px solid #fff;
     clear: right;
-    color: #e3ffff;
+    color: #fff;
     cursor: pointer;
     float: right;
-    font-weight: 600;
     width: 40%;
 }
 input[type=submit]:hover {
