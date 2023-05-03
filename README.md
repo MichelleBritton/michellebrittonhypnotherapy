@@ -185,7 +185,7 @@ To ensure that the website is as accessible as possible, I have used:
 
 This website was built with HTML and CSS.  A small amount of JavaScript was used and the code for this has been credited in the Credits Section.
 
-### Frameworks, Libraries and Programs Used
+### Programs Used
 
 - [Marvel App](https://marvelapp.com/) - for creating wireframes
 - [Git](https://git-scm.com/) - a version control system for tracking changes
