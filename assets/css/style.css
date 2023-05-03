@@ -21,7 +21,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    color: #000;
+    color: #3a3a3a;
 }
 img {
     display: block;
@@ -137,15 +137,15 @@ header a {
     object-position: right -40px;
 }
 .blue {
-    background: #6898ad;
-    color: #000;
+    background: #48798D;
+    color: #fff;
 }
 .blue a {
-    color: #000;
+    color: #ccc;
 }
 .blue a:hover {
-    border-bottom: 1px solid #fff;
-    color: #fff;
+    border-bottom: 1px solid #ccc;
+    color: #ccc;
 }
 #content a {
     color: #3a3a3a;
@@ -168,7 +168,7 @@ a.btn, #content a.btn, button.btn {
     width: 100%;
 }
 a.btn:hover, #content a.btn:hover, button.btn:hover {
-    background: #6898ad;
+    background: #48798D;
 }
 
 /* Headings */
@@ -193,7 +193,7 @@ h3 {
     font-size: 110%;
 }
 #content h2 {
-    color: #6898ad;
+    color: #48798D;
     margin-top: 50px;
 }
 #content h2:first-child {
@@ -219,7 +219,7 @@ h3 {
     width: 49%;
 }
 #how-can-hypnotherapy-help > div:hover {
-    border: 2px solid #6898ad;
+    border: 2px solid #48798D;
 }
 #how-can-hypnotherapy-help > div:nth-of-type(1),
 #how-can-hypnotherapy-help > div:nth-of-type(3),
@@ -228,12 +228,12 @@ h3 {
     margin-left: 0;
 }
 #how-can-hypnotherapy-help h2 {
-    color: #3a3a3a;
+    color: #48798D;
     margin-bottom: 50px;
     text-align: center;
 }
 #how-can-hypnotherapy-help h3 {
-    color: #3a3a3a;
+    color: #48798D;
     margin: 10px 0;
 }
 #how-can-hypnotherapy-help img {
@@ -243,7 +243,7 @@ h3 {
 
 /* Quote Section */
 #quote {
-    color: #6898ad;
+    color: #48798D;
     padding: 3% 10%;
 }
 #quote blockquote {
@@ -319,7 +319,7 @@ input[type=submit] {
     width: 40%;
 }
 input[type=submit]:hover {
-    background: #6898ad;
+    background: #48798D;
 }
 
 /* Footer Section */
