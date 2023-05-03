@@ -338,6 +338,33 @@ Initial and final testing for Mobile Anxiety page
 
 ![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/anxiety-mobile.png)
 
+#### Stress Page
+
+Initial and final testing for Desktop Stress page
+
+![Initial and Final testing for Desktop Stress page](documentation/testing/lighthouse/stress-desktop.png)
+
+Initial and final testing for Mobile Stress page
+
+![Initial and Final testing for Mobile Stress page](documentation/testing/lighthouse/stress-mobile.png)
+
+#### OCD Page
+
+
+
+#### Insomnia Page
+
+
+#### Phobias & Fears Page
+
+
+#### Quit Smoking Page
+
+
+#### Other Issues Page
+
+
+
 ### Full Testing 
 
 
