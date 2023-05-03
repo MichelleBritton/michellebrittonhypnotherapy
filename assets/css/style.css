@@ -322,7 +322,7 @@ input[type=submit]:hover {
 /* Footer Section */
 footer {
     background: #9bd2c9;
-    color: #545479;
+    color: #3a3a3a;
     overflow: hidden;
     width: 100%;
 }
@@ -334,10 +334,10 @@ footer {
     line-height: 40px;
 }
 #contact-details a {
-    color: #545479;
+    color: #3a3a3a;
 }
 #contact-details a:hover {
-    border-bottom: 1px solid #545479;
+    border-bottom: 1px solid #3a3a3a;
 }
 .icon {
     background: #e3ffff;
