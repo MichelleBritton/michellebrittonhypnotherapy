@@ -227,19 +227,19 @@ Chrome Developer Tools were used throughout the course of development, mainly to
 
 All pages contained in the website were validated using the W3C Validator.
 
-- Home
-- What is Hypnotherapy?
-- Sessions & Fees
-- Depression
-- Anxiety 
-- Stress 
-- OCD 
-- Insomnia 
-- Phobias & Fears 
-- Quit Smoking 
-- Other Issues 
-- Thank You 
-- 404 
+- [Home](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [What is Hypnotherapy?](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Sessions & Fees](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Depression](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Anxiety](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Stress](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [OCD](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Insomnia](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Phobias & Fears](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Quit Smoking](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- [Other Issues](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator)
+- Thank You ****   NOT VALID ****
+- [404](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#w3c-validator) 
 
 ### Jigsaw CSS Validator
 
