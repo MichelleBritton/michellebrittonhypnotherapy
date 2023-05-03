@@ -280,9 +280,11 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 #### Home Page
 
 Initial and Final testing for Desktop Home page
+
 ![Initial and Final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
 
 Initial testing for Mobile Home page
+
 ![Initial and Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
 
 Suggestions: 
