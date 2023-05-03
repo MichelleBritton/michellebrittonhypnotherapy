@@ -328,7 +328,15 @@ Initial and final testing for Mobile Depression page
 
 ![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/depression-mobile.png)
 
+#### Anxiety Page 
 
+Initial and final testing for Desktop Anxiety page
+
+![Initial and Final testing for Desktop Anxiety page](documentation/testing/lighthouse/anxiety-desktop.png)
+
+Initial and final testing for Mobile Anxiety page
+
+![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/anxiety-mobile.png)
 
 ### Full Testing 
 
