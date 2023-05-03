@@ -225,5 +225,36 @@ Chrome Developer Tools were used throughout the course of development, mainly to
 
 ### W3C Validator 
 
+All pages contained in the website were validated using the W3C Validator.
+
+- Home
+- What is Hypnotherapy?
+- Sessions & Fees
+- Depression
+- Anxiety 
+- Stress 
+- OCD 
+- Insomnia 
+- Phobias & Fears 
+- Quit Smoking 
+- Other Issues 
+- Thank You 
+- 404 
+
+### Jigsaw CSS Validator
+
+The CSS stylesheet was validated using the Jigsaw Validator. 
+
+### Solved Bugs 
 
 
+
+### Known Bugs
+
+No known bugs.
+
+### Testing User Stories
+
+
+
+### Lighthouse 
