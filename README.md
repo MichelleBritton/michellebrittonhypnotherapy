@@ -223,6 +223,12 @@ GitHub Pages was used for deployment of the website directly from the GitHub rep
 
 Chrome Developer Tools were used throughout the course of development, mainly to troubleshoot any layout issues that arose, such as margins and paddings, especially when optimising for smaller devices.
 
+I found the following issues during testing which have all be docuemntated in Solved Bugs:
+
+- When implementing the responsive navigation the navigation slide in page would appear and disappear when resizing to 1024px and below.
+- The responsive navigation needed to close when clicking on anchor links.
+- The redirect function on the form submission thank you page was tempermental and was not valid code.
+
 ### W3C Validator 
 
 All pages contained in the website were validated using the W3C Validator.
@@ -249,7 +255,9 @@ The CSS stylesheet was validated using the Jigsaw Validator.
 
 ### Solved Bugs 
 
-
+- The first issue occurred when resizing the browser.  The navigation would appear and slide off to the left.  Whilst the functionality was unaffected it did not make for a good user experience.  To solve this I created two navigations with different ID's and set the mobile navigation to display: none; for larger devices and vice versa for small devices.
+- The second issue I encountered was, again, related to the navigation.  I had used JavaScript to slide the navigation in from the left hand side but as there are two links in the navigation that are anchor links to sections within that page, when clicked on the navigation would not close. I added onclick="closeNav()" to those links to correct this.  closeNav() was a function provided in the JavaScript that I have found, credited below.
+- The first issue is the redirect code on form-submission.html.  I needed to redirect to the home page after 5 seconds.  The code I had found was invalid **** NEED TO SOLVE THIS *****
 
 ### Known Bugs
 
