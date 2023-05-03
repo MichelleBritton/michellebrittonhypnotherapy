@@ -53,7 +53,7 @@ header a {
     margin: 0 auto 30px;
 }
 #tagline {
-    color: #3a3a3a;
+    color: #545479;
     font-family: 'james_fajardoregular', sans-serif;
     font-size: 300%;
     letter-spacing: 2px;
@@ -322,7 +322,7 @@ input[type=submit]:hover {
 /* Footer Section */
 footer {
     background: #9bd2c9;
-    color: #3a3a3a;
+    color: #545479;
     overflow: hidden;
     width: 100%;
 }
@@ -334,10 +334,10 @@ footer {
     line-height: 40px;
 }
 #contact-details a {
-    color: #3a3a3a;
+    color: #545479;
 }
 #contact-details a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #545479;
 }
 .icon {
     background: #e3ffff;
