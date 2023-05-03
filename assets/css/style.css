@@ -310,9 +310,9 @@ input, textarea {
 }
 input[type=submit] {
     background: #a588a4;
-    border: 3px solid #fff;
+    border: 3px solid #e3ffff;
     clear: right;
-    color: #fff;
+    color: #e3ffff;
     cursor: pointer;
     float: right;
     width: 40%;
