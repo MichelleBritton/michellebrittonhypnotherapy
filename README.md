@@ -420,7 +420,7 @@ Initial and final testing for Desktop Form Submission page
 
 Suggestions: 
 
-- The document uses <meta http-equiv="refresh">.  Users do not expect a page to refresh automatically and doing so will move focus back to the top of the page.  I felt that as the page does not refresh, but redirects back to the home page, and there is a message indicating to the user that this is its intention, that it was ok to leave this as it is.
+- The document uses ```<meta http-equiv="refresh">```  Users do not expect a page to refresh automatically and doing so will move focus back to the top of the page.  I felt that as the page does not refresh, but redirects back to the home page, and there is a message indicating to the user that this is its intention, that it was ok to leave this as it is.
 
 Initial and final testing for Mobile Form Submission page
 
@@ -494,7 +494,7 @@ All content for the website was written by Michelle Britton.
 
 I referred to Kera Cudmore's README files for guidance and inspiration for this README file.
 
-- [README Examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md)
+- [README Examples](https://github.com/kera-cudmore/readme-examples)
 - [Bully Book Club README](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 
 ### Media 
