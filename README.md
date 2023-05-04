@@ -346,13 +346,9 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Phobias & Fears Page
 
-Initial and final testing for Desktop Phobias & Fears page
+- [Initial and final testing for Desktop Phobias & Fears page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#phobias-and-fears)
 
-![Initial and Final testing for Desktop Phobias & Fears page](documentation/testing/lighthouse/phobias-desktop.png)
-
-Initial and final testing for Mobile Phobias & Fears page
-
-![Initial and Final testing for Mobile Phobias & Fears page](documentation/testing/lighthouse/phobias-mobile.png)
+- [Initial and final testing for Mobile Phobias & Fears page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#phobias-and-fears)
 
 #### Quit Smoking Page
 

@@ -158,3 +158,16 @@ Initial and final testing for Desktop
 Initial and final testing for Mobile
 
 ![Initial and Final testing for Mobile Insomnia page](documentation/testing/lighthouse/insomnia-mobile.png)
+
+#### Phobias and Fears
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Phobias and Fears page](documentation/testing/lighthouse/phobias-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Phobias and Fears page](documentation/testing/lighthouse/phobias-mobile.png)
+
+
