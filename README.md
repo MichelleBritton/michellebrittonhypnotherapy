@@ -320,17 +320,11 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 [Initial and final testing for Mobile Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
-
-
 #### Anxiety Page 
 
-Initial and final testing for Desktop Anxiety page
+[Initial and final testing for Desktop Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
-![Initial and Final testing for Desktop Anxiety page](documentation/testing/lighthouse/anxiety-desktop.png)
-
-Initial and final testing for Mobile Anxiety page
-
-![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/anxiety-mobile.png)
+[Initial and final testing for Mobile Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
 #### Stress Page
 
