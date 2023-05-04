@@ -69,7 +69,19 @@ Initial and final testing for Desktop
 
 #### Home - Mobile
 Initial testing for Mobile
-![Initial for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
+![Initial testing for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
 
 Final testing for Mobile
 ![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
+
+#### What is Hypnotheray - Desktop
+Initial and final testing for Desktop
+![Initial and final testing for Desktop What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-desktop.png)
+
+#### What is Hypnotheray - Mobile
+Initial testing for Mobile
+![Initial testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
+
+Final testing for Mobile
+![Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile-final.png)
+

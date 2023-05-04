@@ -280,7 +280,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Home Page
 
-- [Initial and Final testing for Desktop Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-desktop) 
+- [Initial and final testing for Desktop Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-desktop) 
 
 - [Initial testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-mobile)
 
@@ -297,23 +297,16 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### What is Hypnotherapy Page 
 
-Initial and final testing for Desktop What is Hypnotherapy page
+- [Initial and final testing for Desktop What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-desktop)
 
-![Initial and Final testing for Desktop What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-desktop.png)
+- [Initial testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-mobile)
 
-Initial testing for Mobile What is Hypnotherapy page
+    - Suggestions: 
+    - Improve colour contrast for form submit button. I have changed the lavender background to a deep purple throughout.
 
-![Initial testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
+    ![Deep Purple Navigation](documentation/screenshots/navigation-dark-purple.png)
 
-Suggestions: 
-
-- Improve colour contrast for form submit button. I have changed the lavender background to a deep purple throughout.
-
-![Deep Purple Navigation](documentation/screenshots/navigation-dark-purple.png)
-
-Final testing for Mobile What is Hypnotherapy page
-
-![Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile-final.png)
+- [Final testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-mobile)
 
 #### Sessions & Fees Page 
 
