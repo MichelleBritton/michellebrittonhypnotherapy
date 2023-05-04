@@ -374,49 +374,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 ### Full Testing 
 
-I used BrowserStack to fully test the website using a number of browsers, operating systems and devices, the full list is below: 
-
-- iPhone 13 - Safari and Chrome
-- iPhone 14 - Safari and Chrome
-- iPHone 14 Pro - Safari and Chrome
-- iPhone 14 Plus - Safari and Chrome
-- iPhone 12 Mini - Safari and Chrome
-- iPhone 8 - Safari and Chrome
-- iPad 10th Gen - Safari and Chrome
-- iPad Pro 12.9.2020 - Safari and Chrome
-- iPad Mini 2019 - Safari and Chrome
-- iPad Air 5 - Safari and Chrome
-- iPad 5th Gen - Safari and Chrome
-- Samsung Galaxy S22 - Chrome and Firefox
-- Samsung Galaxy S23 Ultra - Chrome and Firefox
-- Samsung Galaxy 8 - Chrome and Firefox
-- Samsung Galaxy Note 20 - Chrome and Firefox
-- Samsung Galaxy Note 9 - Chrome and Firefox
-- Windows 11 - Edge 112
-- Windows 11 - Edge 109
-- Windows 11 - Firefox 112
-- Windows 11 - Chrome 112
-- Windows 11 - Opera 98
-- Windows 10 - Edge 112
-- Windows 10 - IE 11
-- Windows 10 - Firefox 112
-- Windows 10 - Chrome 112
-- Windows 10 - Opera 98
-- Windows 7 - Edge 109
-- Windows 7 - IE 11
-- Windows 7 - Firefox 112
-- Windows 7 - Chrome 109
-- Windows 7 - Opera 95
-- Mac Ventura - Safari 16.3
-- Mac Ventura - Chrome 112
-- Mac Ventura - Firefox 112
-- Mac Ventura - Opera 98
-- Mac Ventura - Edge 112
-- Mac Sierra - Safari 10.1
-- Mac Sierra - Firefox 112
-- Mac Sierra - Chrome 103
-- Mac Sierra - Opera 89
-- Mac Sierra - Edge 103
+I used BrowserStack to fully test the website using a number of browsers, operating systems and devices - [click here to see the full list](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#full-testing): 
 
 To test the site, I followed the following steps: 
 
