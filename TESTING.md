@@ -114,3 +114,36 @@ Initial and final testing for Desktop
 Initial and final testing for Mobile
 
 ![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/depression-mobile.png)
+
+#### Anxiety
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Anxiety page](documentation/testing/lighthouse/anxiety-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/anxiety-mobile.png)
+
+#### Stress
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Stress page](documentation/testing/lighthouse/stress-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Stress page](documentation/testing/lighthouse/stress-mobile.png)
+
+#### OCD
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop OCD page](documentation/testing/lighthouse/ocd-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile OCD page](documentation/testing/lighthouse/ocd-mobile.png)

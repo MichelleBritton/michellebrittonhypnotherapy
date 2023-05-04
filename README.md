@@ -310,41 +310,33 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Sessions & Fees Page 
 
-[Initial and final testing for Desktop Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
+- [Initial and final testing for Desktop Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
 
-[Initial and final testing for Mobile Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
+- [Initial and final testing for Mobile Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
 
 #### Depression Page 
 
-[Initial and final testing for Desktop Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
+- [Initial and final testing for Desktop Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
-[Initial and final testing for Mobile Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
+- [Initial and final testing for Mobile Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
 #### Anxiety Page 
 
-[Initial and final testing for Desktop Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
+- [Initial and final testing for Desktop Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#anxiety)
 
-[Initial and final testing for Mobile Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
+- [Initial and final testing for Mobile Anxiety page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#anxiety)
 
 #### Stress Page
 
-Initial and final testing for Desktop Stress page
+- [Initial and final testing for Desktop Stress page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#stress)
 
-![Initial and Final testing for Desktop Stress page](documentation/testing/lighthouse/stress-desktop.png)
-
-Initial and final testing for Mobile Stress page
-
-![Initial and Final testing for Mobile Stress page](documentation/testing/lighthouse/stress-mobile.png)
+- [Initial and final testing for Mobile Stress page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#stress)
 
 #### OCD Page
 
-Initial and final testing for Desktop OCD page
+- [Initial and final testing for Desktop OCD page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#ocd)
 
-![Initial and Final testing for Desktop OCD page](documentation/testing/lighthouse/ocd-desktop.png)
-
-Initial and final testing for Mobile OCD page
-
-![Initial and Final testing for Mobile OCD page](documentation/testing/lighthouse/ocd-mobile.png)
+- [Initial and final testing for Mobile OCD page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#ocd)
 
 #### Insomnia Page
 
