@@ -293,6 +293,7 @@ Suggestions:
 - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
 - Properly size images to improve load time
 - Improve colour contrast for blue sections with white text. I have changed the blue background to a slightly darker blue.
+![Darker Blue Background](documentation/screenshots/dark-blue.png)
 - Serves images with low resolution.
 
 Final testing for Mobile Home page
