@@ -312,6 +312,8 @@ Suggestions:
 
 - Improve colour contrast for form submit button. I have changed the lavender background to a deep purple.
 
+Final testing for Mobile What is Hypnotherapy page
+
 ![Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile-final.png)
 
 #### Sessions & Fees Page 
