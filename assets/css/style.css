@@ -91,7 +91,7 @@ header a {
     top: 0;     
     transition: 0.5s; 
     width: 0;
-    visibility: none;
+    visibility: hidden;
     z-index: 1; 
 }
 #mobile-nav.visible {

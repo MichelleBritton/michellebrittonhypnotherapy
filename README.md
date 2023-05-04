@@ -71,7 +71,7 @@ Michelle Britton is a newly qualified Hypnotherapist who would like an online pr
 
 ### Colour Scheme
 
-The colours used throughout the site were chosen as they match the colours contained in the logo. The addition of the lavender colour was found using the [ColorSpace](https://mycolor.space/) color palette generator.
+The colours used throughout the site were chosen as they match the colours contained in the logo. The addition of the purple colour was found using the [ColorSpace](https://mycolor.space/) color palette generator.
 
 ### Typography
 
@@ -291,7 +291,7 @@ Suggestions:
 
 - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
 - Properly size images to improve load time
-- Improve colour contrast for blue sections with white text. I have changed the text from white to black and all types of grey in between and I cannot improve on the accessibility score of 97.  I have used the WebAIM site to check the contrast.  With white text on the blue background the contrast ratio was 3.14:1.  With Black text the ratio is 6.68:1 which would pass WCAG AA guidelines. 
+- Improve colour contrast for blue sections with white text. I have changed the blue background to a slightly darker blue.
 - Serves images with low resolution.
 
 Final testing for Mobile Home page
@@ -306,7 +306,7 @@ Initial and final testing for Desktop What is Hypnotherapy page
 
 Initial testing for Mobile What is Hypnotherapy page
 
-![Initial and Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
+![Initial testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
 
 #### Sessions & Fees Page 
 
