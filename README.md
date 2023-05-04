@@ -316,13 +316,11 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Depression Page 
 
-Initial and final testing for Desktop Depression page
+[Initial and final testing for Desktop Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
-![Initial and Final testing for Desktop Depression page](documentation/testing/lighthouse/depression-desktop.png)
+[Initial and final testing for Mobile Depression page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#depression)
 
-Initial and final testing for Mobile Depression page
 
-![Initial and Final testing for Mobile Depression page](documentation/testing/lighthouse/depression-mobile.png)
 
 #### Anxiety Page 
 
