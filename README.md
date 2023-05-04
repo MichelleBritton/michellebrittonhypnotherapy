@@ -219,7 +219,7 @@ GitHub Pages was used for deployment of the website directly from the GitHub rep
 
 Chrome Developer Tools were used throughout the course of development, mainly to troubleshoot any layout issues that arose, such as margins and paddings, especially when optimising for smaller devices.
 
-I found the following issues during testing which have all be docuemntated in Solved Bugs:
+I found the following issues during testing which have all be documentated in Solved Bugs:
 
 - When implementing the responsive navigation the navigation slide in page would appear and disappear when resizing to 1024px and below.
 - The responsive navigation needed to close when clicking on anchor links.
@@ -487,7 +487,7 @@ I referred to Kera Cudmore's README files for guidance and inspiration for this 
 
 The CD audio track was recorded by Michelle Britton.
 
-The logo was designed by [Crush Design](http://crushdesign.co.uk/)
+The logo was designed by [Crush Design](http://crushdesign.co.uk/).
 
 ### Acknowledgements
 
