@@ -15,10 +15,10 @@ function myFunction() {
 /* Set the width of the side navigation to 100% */
 function openNav() {
   document.getElementById("mobile-nav").style.width = "100%";
-  document.getElementById("mobile-nav").style.visibility = "visible";
+  document.getElementById("mobile-nav").classList.add('visible');
 }
 /* Set the width of the side navigation to 0 */
 function closeNav() {
   document.getElementById("mobile-nav").style.width = "0";
-  document.getElementById("mobile-nav").style.visibility = "none";
+  document.getElementById("mobile-nav").classList.remove('visible');
 }

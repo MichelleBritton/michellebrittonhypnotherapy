@@ -94,6 +94,9 @@ header a {
     visibility: none;
     z-index: 1; 
 }
+#mobile-nav.visible {
+    visibility: visible;
+}
 #mobile-nav ul {
     font-size: 150%;
     list-style: none;
