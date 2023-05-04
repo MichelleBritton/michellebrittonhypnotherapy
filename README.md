@@ -390,7 +390,13 @@ Initial and final testing for Mobile Quit Smoking page
 
 #### Other Issues Page
 
+Initial and final testing for Desktop Other Issues page
 
+![Initial and Final testing for Desktop Other Issues page](documentation/testing/lighthouse/other-desktop.png)
+
+Initial and final testing for Mobile Other Issues page
+
+![Initial and Final testing for Mobile Other Issues page](documentation/testing/lighthouse/other-mobile.png)
 
 ### Full Testing 
 
