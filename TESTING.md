@@ -51,7 +51,7 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 ![Screenshot of HTML validation of Other Issues Page](documentation/testing/validation/html-v-other.png)
 
 #### Thank You HTML Validation
-![Screenshot of HTML validation of Thank You Page](documentation/testing/validation/html-v-.png). **** NEED TO FIX ****
+![Screenshot of HTML validation of Thank You Page](documentation/testing/validation/html-v-thankyou.png)
 
 #### 404 HTML Validation
 ![Screenshot of HTML validation of 404 Page](documentation/testing/validation/html-v-404.png)
