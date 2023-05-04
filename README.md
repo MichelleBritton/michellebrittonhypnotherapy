@@ -348,19 +348,25 @@ Initial and final testing for Mobile Stress page
 
 ![Initial and Final testing for Mobile Stress page](documentation/testing/lighthouse/stress-mobile.png)
 
-### OCD Page
+#### OCD Page
 
 Initial and final testing for Desktop OCD page
 
-![Initial and Final testing for Desktop OCS page](documentation/testing/lighthouse/ocd-desktop.png)
+![Initial and Final testing for Desktop OCD page](documentation/testing/lighthouse/ocd-desktop.png)
 
 Initial and final testing for Mobile OCD page
 
 ![Initial and Final testing for Mobile OCD page](documentation/testing/lighthouse/ocd-mobile.png)
 
-
-
 #### Insomnia Page
+
+Initial and final testing for Desktop Insomnia page
+
+![Initial and Final testing for Desktop Insomnia page](documentation/testing/lighthouse/insomnia-desktop.png)
+
+Initial and final testing for Mobile Insomnia page
+
+![Initial and Final testing for Mobile Insomnia page](documentation/testing/lighthouse/insomnia-mobile.png)
 
 
 #### Phobias & Fears Page
