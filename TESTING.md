@@ -63,25 +63,35 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 
 ### Lighthouse
 
-#### Home - Desktop
+#### Home
+##### Desktop
 Initial and final testing for Desktop
 ![Initial and final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
 
-#### Home - Mobile
+##### Mobile
 Initial testing for Mobile
 ![Initial testing for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
 
 Final testing for Mobile
 ![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
 
-#### What is Hypnotheray - Desktop
+#### What is Hypnotherapy
+##### Desktop
 Initial and final testing for Desktop
 ![Initial and final testing for Desktop What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-desktop.png)
 
-#### What is Hypnotheray - Mobile
+##### Mobile
 Initial testing for Mobile
 ![Initial testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile.png)
 
 Final testing for Mobile
 ![Final testing for Mobile What is Hypnotherapy page](documentation/testing/lighthouse/what-is-hypnotherapy-mobile-final.png)
 
+#### Sessions and Fees
+##### Desktop
+Initial and final testing for Desktop
+![Initial and Final testing for Desktop Sessions & Fees page](documentation/testing/lighthouse/sessions-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+![Initial and Final testing for Mobile Sessions & Fees page](documentation/testing/lighthouse/sessions-mobile.png)

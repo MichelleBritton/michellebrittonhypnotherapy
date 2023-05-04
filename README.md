@@ -280,9 +280,9 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Home Page
 
-- [Initial and final testing for Desktop Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-desktop) 
+- [Initial and final testing for Desktop Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home) 
 
-- [Initial testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-mobile)
+- [Initial testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home)
 
     - Suggestions:  
     - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
@@ -293,30 +293,26 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
     - Serves images with low resolution. This only seemed to affect the logo, which I have optimised.
 
-- [Final testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-mobile)
+- [Final testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home)
 
 #### What is Hypnotherapy Page 
 
-- [Initial and final testing for Desktop What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-desktop)
+- [Initial and final testing for Desktop What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy)
 
-- [Initial testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-mobile)
+- [Initial testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy)
 
     - Suggestions: 
     - Improve colour contrast for form submit button. I have changed the lavender background to a deep purple throughout.
 
     ![Deep Purple Navigation](documentation/screenshots/navigation-dark-purple.png)
 
-- [Final testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy-mobile)
+- [Final testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy)
 
 #### Sessions & Fees Page 
 
-Initial and final testing for Desktop Sessions & Fees page
+[Initial and final testing for Desktop Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
 
-![Initial and Final testing for Desktop Sessions & Fees page](documentation/testing/lighthouse/sessions-desktop.png)
-
-Initial and final testing for Mobile Sessions & Fees page
-
-![Initial and Final testing for Mobile Sessions & Fees page](documentation/testing/lighthouse/sessions-mobile.png)
+[Initial and final testing for Mobile Sessions & Fees page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#sessions-and-fees)
 
 #### Depression Page 
 
