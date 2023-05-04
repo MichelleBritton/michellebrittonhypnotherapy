@@ -380,6 +380,13 @@ Initial and final testing for Mobile Phobias & Fears page
 
 #### Quit Smoking Page
 
+Initial and final testing for Desktop Quit Smoking page
+
+![Initial and Final testing for Desktop Quit Smoking page](documentation/testing/lighthouse/smoking-desktop.png)
+
+Initial and final testing for Mobile Quit Smoking page
+
+![Initial and Final testing for Mobile Quit Smoking page](documentation/testing/lighthouse/smoking-mobile.png)
 
 #### Other Issues Page
 
