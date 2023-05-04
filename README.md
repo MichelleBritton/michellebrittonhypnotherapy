@@ -463,22 +463,18 @@ To test the site, I followed the following steps:
 ## Credits 
 
 ### Code Used 
-[Responsive Map](https://blog.duda.co/responsive-google-maps-for-your-website)
-
-[Toggle Div Functionality](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
-
-[Responsive Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp)
-
-[Redirect to Home Page after 5 seconds]()**** NEED TO SORT THIS OUT ****
+- [Responsive Map](https://blog.duda.co/responsive-google-maps-for-your-website)
+- [Toggle Div Functionality](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
+- [Responsive Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp)
+- [Redirect to Home Page after 5 seconds]()**** NEED TO SORT THIS OUT ****
 
 ### Content 
 
 All content for the website was written by Michelle Britton.
 I referred to Kera Cudmore's README files for guidance and inspiration for this README file.
 
-[README Examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md)
-
-[Bully Book Club README](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
+- [README Examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md)
+- [Bully Book Club README](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 
 ### Media 
 
