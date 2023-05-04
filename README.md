@@ -340,13 +340,9 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Insomnia Page
 
-Initial and final testing for Desktop Insomnia page
+- [Initial and final testing for Desktop Insomnia page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#insomnia)
 
-![Initial and Final testing for Desktop Insomnia page](documentation/testing/lighthouse/insomnia-desktop.png)
-
-Initial and final testing for Mobile Insomnia page
-
-![Initial and Final testing for Mobile Insomnia page](documentation/testing/lighthouse/insomnia-mobile.png)
+- [Initial and final testing for Mobile Insomnia page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#insomnia)
 
 #### Phobias & Fears Page
 
