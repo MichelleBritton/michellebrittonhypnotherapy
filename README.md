@@ -253,7 +253,8 @@ The CSS stylesheet was validated using the Jigsaw Validator.
 
 - The first issue occurred when resizing the browser.  The navigation would appear and slide off to the left.  Whilst the functionality was unaffected it did not make for a good user experience.  To solve this I created two navigations with different ID's and set the mobile navigation to display: none; for larger devices and vice versa for small devices.
 - The second issue I encountered was, again, related to the navigation.  I had used JavaScript to slide the navigation in from the left hand side but as there are two links in the navigation that are anchor links to sections within that page, when clicked on the navigation would not close. I added onclick="closeNav()" to those links to correct this.  closeNav() was a function provided in the JavaScript that I have found, credited below.
-- The first issue is the redirect code on form-submission.html.  I needed to redirect to the home page after 5 seconds.  The code I had found was invalid **** NEED TO SOLVE THIS *****
+- The third issue is the redirect code on form-submission.html.  I needed to redirect to the home page after 5 seconds.  The code I had found was invalid **** NEED TO SOLVE THIS *****
+- The fourth issue was discovered when testing for accessibility.  Lighthouse indicated that there was a contrast issue.  The background was white and the text was black so I was puzzled as to how this could be a problem.  On further investigation, I realised that the mobile navigation, which was pushed off to the left, was somehow affecting this.  The navigation links are an off white and this is what was causing the contrast error.  I resolved this by adding some JavaScript to add a class of visible when the navigation was opened and to remove it when it was closed.  I added .visible to the CSS and set visibility to visible and add visbility: hidden to #mobile-nav.
 
 ### Known Bugs
 
@@ -471,6 +472,7 @@ To test the site, I followed the following steps:
 ### Content 
 
 All content for the website was written by Michelle Britton.
+
 I referred to Kera Cudmore's README files for guidance and inspiration for this README file.
 
 - [README Examples](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-testing.md)
