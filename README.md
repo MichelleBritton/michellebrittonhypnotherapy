@@ -197,10 +197,10 @@ This website was built with HTML and CSS.  A small amount of JavaScript was used
 - [Shields](https://shields.io/) - to generate badges for inclusion in the README field
 - [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) - for testing and debugging the website
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - for accessibility and performance reporting
-- [WAVE](https://wave.webaim.org/) - for accessibilty testing
 - [The W3C Markup Validation Service](https://validator.w3.org/) - for validating HTML 
 - [Jigsaw](https://jigsaw.w3.org/css-validator/) - for validating CSS
 - [Browserstack](https://www.browserstack.com/) - for cross browser testing
+- [BIRME](https://www.birme.net/) - for converting images to WebP format
 
 ## Deployment 
 
@@ -408,11 +408,59 @@ Initial and final testing for Mobile Other Issues page
 
 ### Full Testing 
 
+I used BrowserStack to fully test the website using a number of browsers, operating systems and devices, the full list is below: 
 
+- iPhone 13 - Safari and Chrome
+- iPhone 14 - Safari and Chrome
+- iPHone 14 Pro - Safari and Chrome
+- iPhone 14 Plus - Safari and Chrome
+- iPhone 12 Mini - Safari and Chrome
+- iPhone 8 - Safari and Chrome
+- iPad 10th Gen - Safari and Chrome
+- iPad Pro 12.9.2020 - Safari and Chrome
+- iPad Mini 2019 - Safari and Chrome
+- iPad Air 5 - Safari and Chrome
+- iPad 5th Gen - Safari and Chrome
+- Samsung Galaxy S22 - Chrome and Firefox
+- Samsung Galaxy S23 Ultra - Chrome and Firefox
+- Samsung Galaxy 8 - Chrome and Firefox
+- Samsung Galaxy Note 20 - Chrome and Firefox
+- Samsung Galaxy Note 9 - Chrome and Firefox
+- Windows 11 - Edge 112
+- Windows 11 - Edge 109
+- Windows 11 - Firefox 112
+- Windows 11 - Chrome 112
+- Windows 11 - Opera 98
+- Windows 10 - Edge 112
+- Windows 10 - IE 11
+- Windows 10 - Firefox 112
+- Windows 10 - Chrome 112
+- Windows 10 - Opera 98
+- Windows 7 - Edge 109
+- Windows 7 - IE 11
+- Windows 7 - Firefox 112
+- Windows 7 - Chrome 109
+- Windows 7 - Opera 95
+- Mac Ventura - Safari 16.3
+- Mac Ventura - Chrome 112
+- Mac Ventura - Firefox 112
+- Mac Ventura - Opera 98
+- Mac Ventura - Edge 112
+- Mac Sierra - Safari 10.1
+- Mac Sierra - Firefox 112
+- Mac Sierra - Chrome 103
+- Mac Sierra - Opera 89
+- Mac Sierra - Edge 103
+
+To test the site, I followed the following steps: 
+
+1. Resize the browser to ensure that the site is responsive on multiple screen sizes.
+2. Test each link on each page.  Each link worked as expected and external links opened in a separate browser tab.
+3. Tested the contact form.  Validation worked on the required fields and submitted to the form-submission.html page.
+4. Tested the "Listen to CD" button.  This worked as expected and the audio file was displayed correctly and played when the play button was clicked on.
+5. Ensured that the Google map displayed correctly.  This did not display when testing on Internet Explorer but a message was displayed in it's place advising the user to use a different browser.
 
 ## Credits 
-
-
 
 ### Code Used 
 
