@@ -82,7 +82,7 @@ header a {
     display: none;
 }
 #mobile-nav {
-    background: #a588a4;
+    background: #545479;
     height: 100%; 
     left: 0;
     overflow-x: hidden; 
@@ -91,6 +91,7 @@ header a {
     top: 0;     
     transition: 0.5s; 
     width: 0;
+    visibility: none;
     z-index: 1; 
 }
 #mobile-nav ul {
@@ -99,7 +100,7 @@ header a {
     margin: 0;
 }
 #mobile-nav a {
-    border-bottom: 2px solid #a588a4;
+    border-bottom: 2px solid #545479;
     color: #e3ffff;
     transition: 0.3s;
 }
@@ -153,7 +154,7 @@ header a {
     border-bottom: 1px solid #3a3a3a;
 }
 a.btn, #content a.btn, button.btn {
-    background: #a588a4;
+    background: #545479;
     border: 3px solid #e3ffff;
     border-radius: 50px;
     clear: both;
@@ -309,7 +310,7 @@ input, textarea {
     width: 70%;
 }
 input[type=submit] {
-    background: #a588a4;
+    background: #545479;
     border: 3px solid #e3ffff;
     clear: right;
     color: #e3ffff;
@@ -392,7 +393,7 @@ footer {
         display: none;
     }    
     #nav {
-        background: #a588a4;
+        background: #545479;
         display: block;
         padding: 20px 0;
         text-align: center;
@@ -406,7 +407,7 @@ footer {
         margin: 0 15px;
     }
     #nav a {
-        border-bottom: 2px solid #a588a4;
+        border-bottom: 2px solid #545479;
         color: #e3ffff;
         display: inline-block;
         transition: 0.3s;
