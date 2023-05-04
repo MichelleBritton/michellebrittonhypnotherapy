@@ -264,12 +264,16 @@ No known bugs.
 - First Time Visitors
     - **I want to find out if Hypnotherapy can help me.** On the homepage there is a prominent section entitled "How Can Hypnotherapy Help?" with links that take you to specific issues.  Underneath that section there is a link that take you to the next page "What is Hypnotherapy"
     ![Screenshot of How Hypnotherapy Can Help](documentation/screenshots/how-hypno-helps-screenshot.png)
+
     - **I want to find out what happens during a session.** There is a link in the navigation and also a link on the What is Hypnotherapy page which takes you to the Sessions & Fees page where all the relevant information can be found.
     ![Screenshot of how to reach the Sessions & Fees page](documentation/screenshots/sessions-screenshot-1.png)
+
     - **I want to find out how much it will cost and how many sessions I will need to attend.** This can be found easily directly from the navigation.
     ![Screenshot of Sessions & Fees page](documentation/screenshots/sessions-screenshot-2.png)
+
     - **I want to be able to easily find the information that I am looking for.** All navigation links are contained in the navigation which is consistent throughout the website.  The navigation sits just underneath the header on each page and when viewed on a small device a small hamburger icon is fixed to the top right corner.
     ![Screenshot of navigation](documentation/screenshots/nav-screenshot.png)
+    
 - Returning Visitor Goals
     - **I want to listen to the Relaxation CD in between sessions.** There is a link on the Sessions & Fees page which, when clicked, reveals audio controls.
     ![Screenshot of audio controls](documentation/screenshots/cd-screenshot.png)
