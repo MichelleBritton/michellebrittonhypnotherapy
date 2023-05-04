@@ -181,4 +181,15 @@ Initial and final testing for Mobile
 
 ![Initial and Final testing for Mobile Quit Smoking page](documentation/testing/lighthouse/smoking-mobile.png)
 
+#### Other Issues
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Other Issues page](documentation/testing/lighthouse/other-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Other Issues page](documentation/testing/lighthouse/other-mobile.png)
+
 

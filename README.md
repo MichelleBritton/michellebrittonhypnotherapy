@@ -358,13 +358,9 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Other Issues Page
 
-Initial and final testing for Desktop Other Issues page
+- [Initial and final testing for Desktop Other Issues page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#other-issues)
 
-![Initial and Final testing for Desktop Other Issues page](documentation/testing/lighthouse/other-desktop.png)
-
-Initial and final testing for Mobile Other Issues page
-
-![Initial and Final testing for Mobile Other Issues page](documentation/testing/lighthouse/other-mobile.png)
+- [Initial and final testing for Mobile Other Issues page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#other-issues)
 
 #### Form Submission Page
 
