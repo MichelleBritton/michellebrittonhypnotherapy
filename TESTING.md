@@ -170,4 +170,15 @@ Initial and final testing for Mobile
 
 ![Initial and Final testing for Mobile Phobias and Fears page](documentation/testing/lighthouse/phobias-mobile.png)
 
+#### Quit Smoking
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Quit Smoking page](documentation/testing/lighthouse/smoking-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Quit Smoking page](documentation/testing/lighthouse/smoking-mobile.png)
+
 

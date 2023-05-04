@@ -352,13 +352,9 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Quit Smoking Page
 
-Initial and final testing for Desktop Quit Smoking page
+- [Initial and final testing for Desktop Quit Smoking page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#quit-smoking)
 
-![Initial and Final testing for Desktop Quit Smoking page](documentation/testing/lighthouse/smoking-desktop.png)
-
-Initial and final testing for Mobile Quit Smoking page
-
-![Initial and Final testing for Mobile Quit Smoking page](documentation/testing/lighthouse/smoking-mobile.png)
+- [Initial and final testing for Mobile Quit Smoking page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#quit-smoking)
 
 #### Other Issues Page
 
