@@ -273,7 +273,7 @@ No known bugs.
 
     - **I want to be able to easily find the information that I am looking for.** All navigation links are contained in the navigation which is consistent throughout the website.  The navigation sits just underneath the header on each page and when viewed on a small device a small hamburger icon is fixed to the top right corner.
     ![Screenshot of navigation](documentation/screenshots/nav-screenshot.png)
-    
+
 - Returning Visitor Goals
     - **I want to listen to the Relaxation CD in between sessions.** There is a link on the Sessions & Fees page which, when clicked, reveals audio controls.
     ![Screenshot of audio controls](documentation/screenshots/cd-screenshot.png)
@@ -288,7 +288,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 - [Initial testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home)
 
-    - Suggestions:  
+- Suggestions:  
     - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
     - Properly size images to improve load time
     - Improve colour contrast for blue sections with white text. I have changed the blue background to a slightly darker blue.
@@ -305,7 +305,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 - [Initial testing for Mobile What is Hypnotherapy page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#what-is-hypnotherapy)
 
-    - Suggestions: 
+- Suggestions: 
     - Improve colour contrast for form submit button. I have changed the lavender background to a deep purple throughout.
 
     ![Deep Purple Navigation](documentation/screenshots/navigation-dark-purple.png)
@@ -370,7 +370,7 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 - [Initial and final testing for Desktop Form Submission page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#form-submission)
 
-    - Suggestions:  
+- Suggestions:  
     - The document uses ```<meta http-equiv="refresh">```  Users do not expect a page to refresh automatically and doing so will move focus back to the top of the page.  I felt that as the page does not refresh, but redirects back to the home page, and there is a message indicating to the user that this is its intention, that it was ok to leave this as it is.
     - Initial and final testing for Mobile Form Submission page
 
