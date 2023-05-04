@@ -368,9 +368,15 @@ Initial and final testing for Mobile Insomnia page
 
 ![Initial and Final testing for Mobile Insomnia page](documentation/testing/lighthouse/insomnia-mobile.png)
 
-
 #### Phobias & Fears Page
 
+Initial and final testing for Desktop Phobias & Fears page
+
+![Initial and Final testing for Desktop Phobias & Fears page](documentation/testing/lighthouse/phobias-desktop.png)
+
+Initial and final testing for Mobile Phobias & Fears page
+
+![Initial and Final testing for Mobile Phobias & Fears page](documentation/testing/lighthouse/phobias-mobile.png)
 
 #### Quit Smoking Page
 
