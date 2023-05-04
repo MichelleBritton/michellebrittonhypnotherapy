@@ -364,17 +364,13 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Form Submission Page
 
-Initial and final testing for Desktop Form Submission page
+- [Initial and final testing for Desktop Form Submission page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#form-submission)
 
-![Initial and Final testing for Desktop Form Submission page](documentation/testing/lighthouse/thanks-desktop.png)
+    - Suggestions:  
+    - The document uses ```<meta http-equiv="refresh">```  Users do not expect a page to refresh automatically and doing so will move focus back to the top of the page.  I felt that as the page does not refresh, but redirects back to the home page, and there is a message indicating to the user that this is its intention, that it was ok to leave this as it is.
+    - Initial and final testing for Mobile Form Submission page
 
-Suggestions: 
-
-- The document uses ```<meta http-equiv="refresh">```  Users do not expect a page to refresh automatically and doing so will move focus back to the top of the page.  I felt that as the page does not refresh, but redirects back to the home page, and there is a message indicating to the user that this is its intention, that it was ok to leave this as it is.
-
-Initial and final testing for Mobile Form Submission page
-
-![Initial and Final testing for Mobile Form Submission page](documentation/testing/lighthouse/thanks-mobile.png)
+- [Initial and Final testing for Mobile Form Submission page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#form-submission)
 
 ### Full Testing 
 

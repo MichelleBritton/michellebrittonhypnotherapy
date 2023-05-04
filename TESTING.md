@@ -192,4 +192,15 @@ Initial and final testing for Mobile
 
 ![Initial and Final testing for Mobile Other Issues page](documentation/testing/lighthouse/other-mobile.png)
 
+#### Form Submission
+##### Desktop
+Initial and final testing for Desktop
+
+![Initial and Final testing for Desktop Form Submission page](documentation/testing/lighthouse/thanks-desktop.png)
+
+##### Mobile
+Initial and final testing for Mobile
+
+![Initial and Final testing for Mobile Form Submission page](documentation/testing/lighthouse/thanks-mobile.png)
+
 
