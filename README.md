@@ -42,7 +42,7 @@ The Michelle Britton Hypnotherapy website has been designed to present useful in
 ## User Experience
 ### Initial Discussion
 
-Michelle Britton is a newly qualified Hypnotherapist who would like an online presence to help build up a client base. It is an informative website aimed at users who are interested in understanding how hypnotherapy works and how it may be able to help them resolve any issues that they may be experiencing, whilst encouraging them to book an initial consultation with the Hypnotherapist and generally prommoting a positive vibe.
+Michelle Britton is a newly qualified Hypnotherapist who would like an online presence to help build up a client base. It is an informative website aimed at users who are interested in understanding how hypnotherapy works and how it may be able to help them resolve any issues that they may be experiencing, whilst encouraging them to book an initial consultation with the Hypnotherapist and generally promoting a positive vibe.
 
 ### User Stories
 
@@ -486,6 +486,8 @@ I referred to Kera Cudmore's README files for guidance and inspiration for this 
 ### Media 
 
 The CD audio track was recorded by Michelle Britton.
+
+The logo was designed by [Crush Design](http://crushdesign.co.uk/)
 
 ### Acknowledgements
 
