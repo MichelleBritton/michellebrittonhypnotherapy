@@ -240,7 +240,7 @@ All pages contained in the website were validated using the W3C Validator.
 - [Phobias & Fears](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#phobias-&-fears-html-validation)
 - [Quit Smoking](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#quit-smoking-html-validation)
 - [Other Issues](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#other-issues-html-validation)
-- [Thank You](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#404-html-validation) 
+- [Thank You](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#thank-you-html-validation) 
 - [404](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#404-html-validation) 
 
 ### Jigsaw CSS Validator
@@ -280,27 +280,20 @@ In order to test performance, accessibility, best practices and SEO, I used Ligh
 
 #### Home Page
 
-Initial and Final testing for Desktop Home page
+- [Initial and Final testing for Desktop Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-desktop) 
 
-![Initial and final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
+- [Initial testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-mobile)
 
-Initial testing for Mobile Home page
+    - Suggestions:  
+    - Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
+    - Properly size images to improve load time
+    - Improve colour contrast for blue sections with white text. I have changed the blue background to a slightly darker blue.
 
-![Initial for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
+    ![Darker Blue Background](documentation/screenshots/dark-blue.png)
 
-Suggestions: 
+    - Serves images with low resolution. This only seemed to affect the logo, which I have optimised.
 
-- Serve images in next-gen formats such as WebP and AVIF which means faster downloads and less data consumption. I have converted images to WebP format using Birme.
-- Properly size images to improve load time
-- Improve colour contrast for blue sections with white text. I have changed the blue background to a slightly darker blue.
-
-![Darker Blue Background](documentation/screenshots/dark-blue.png)
-
-- Serves images with low resolution. This only seemed to affect the logo, which I have optimised.
-
-Final testing for Mobile Home page
-
-![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
+- [Final testing for Mobile Home page](https://github.com/MichelleBritton/michellebrittonhypnotherapy/blob/main/TESTING.md/#home-mobile)
 
 #### What is Hypnotherapy Page 
 

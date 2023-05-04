@@ -63,6 +63,13 @@ Visit the deployed site: [Michelle Britton Hypnotherapy](https://michellebritton
 
 ### Lighthouse
 
-#### 
+#### Home - Desktop
+Initial and final testing for Desktop
+![Initial and final testing for Desktop Home page](documentation/testing/lighthouse/home-desktop.png)
 
-### WAVE
+#### Home - Mobile
+Initial testing for Mobile
+![Initial for Mobile Home page](documentation/testing/lighthouse/home-mobile.png)
+
+Final testing for Mobile
+![Final testing for Mobile Home page](documentation/testing/lighthouse/home-mobile-final.png)
