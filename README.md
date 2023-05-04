@@ -314,7 +314,9 @@ Initial testing for Mobile What is Hypnotherapy page
 
 Suggestions: 
 
-- Improve colour contrast for form submit button. I have changed the lavender background to a deep purple.
+- Improve colour contrast for form submit button. I have changed the lavender background to a deep purple throughout.
+
+![Deep Purple Navigation](documentation/screenshots/navigation-dark-purple.png)
 
 Final testing for Mobile What is Hypnotherapy page
 
