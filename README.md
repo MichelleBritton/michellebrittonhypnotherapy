@@ -464,8 +464,11 @@ To test the site, I followed the following steps:
 
 ### Code Used 
 [Responsive Map](https://blog.duda.co/responsive-google-maps-for-your-website)
+
 [Toggle Div Functionality](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp)
+
 [Responsive Navigation](https://www.w3schools.com/howto/howto_js_sidenav.asp)
+
 [Redirect to Home Page after 5 seconds]()**** NEED TO SORT THIS OUT ****
 
 ### Content 
